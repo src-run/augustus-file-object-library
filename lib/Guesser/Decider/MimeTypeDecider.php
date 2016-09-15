@@ -54,7 +54,7 @@ class MimeTypeDecider implements MimeTypeResolverInterface
      *
      * @return bool
      */
-    public function supports(StorageObjectInterface $object)
+    public function supports(StorageObjectInterface $object = null)
     {
         $failures = 0;
 
@@ -72,9 +72,9 @@ class MimeTypeDecider implements MimeTypeResolverInterface
      *
      * @param StorageObjectInterface $object
      *
-     * @throws MetadataException      If mime type could not be guessed.
-     * @throws NotAccessibleException If the file object is not accessible.
-     * @throws NotReadableException   If the file object is not readable.
+     * @throws MetadataException      If mime type could not be guessed
+     * @throws NotAccessibleException If the file object is not accessible
+     * @throws NotReadableException   If the file object is not readable
      *
      * @return bool|MimeType
      */
