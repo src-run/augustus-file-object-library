@@ -18,7 +18,7 @@ use Symfony\Component\Process\ProcessBuilder;
 /**
  * Mime type resolver using file system executable.
  */
-class FileExecutableMimeTypeResolver implements MimeTypeResolverInterface
+class FileExecutableMimeTypeResolver extends AbstractResolver implements MimeTypeResolverInterface
 {
     const EXECUTABLE = 'file';
 

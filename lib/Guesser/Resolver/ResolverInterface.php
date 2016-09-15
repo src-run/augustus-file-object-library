@@ -12,11 +12,12 @@
 namespace SR\File\Object\Guesser\Resolver;
 
 use SR\File\Object\StorageObjectInterface;
+use SR\Log\LoggerAwareInterface;
 
 /**
  * Interface for generic resolver implementation.
  */
-interface ResolverInterface
+interface ResolverInterface extends LoggerAwareInterface
 {
     /**
      * Determine if resolver is supported and supports object.

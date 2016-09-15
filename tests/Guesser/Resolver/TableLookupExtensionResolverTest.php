@@ -17,7 +17,6 @@ use SR\File\Object\StorageObject;
 use SR\File\Object\Tests\AbstractTest;
 
 /**
- * @covers \SR\File\Object\Component\Compiler\YmlCompiler
  * @covers \SR\File\Object\Guesser\Resolver\TableLookupExtensionResolver
  */
 class TableLookupExtensionResolverTest extends AbstractTest

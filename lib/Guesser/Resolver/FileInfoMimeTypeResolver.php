@@ -17,7 +17,7 @@ use SR\File\Object\StorageObjectInterface;
 /**
  * Mime type resolver using file info extension.
  */
-class FileInfoMimeTypeResolver implements MimeTypeResolverInterface
+class FileInfoMimeTypeResolver extends AbstractResolver implements MimeTypeResolverInterface
 {
     /**
      * @var null|string

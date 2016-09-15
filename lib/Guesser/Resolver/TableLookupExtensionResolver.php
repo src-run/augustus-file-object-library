@@ -11,14 +11,14 @@
 
 namespace SR\File\Object\Guesser\Resolver;
 
-use SR\File\Object\Component\Compiler\YmlCompiler;
+use SR\Compiler\YmlCompiler;
 use SR\File\Object\Guesser\Model\MimeType;
 use SR\File\Object\StorageObjectInterface;
 
 /**
  * Extension resolver using static YML data table.
  */
-class TableLookupExtensionResolver implements ExtensionResolverInterface
+class TableLookupExtensionResolver extends AbstractResolver implements ExtensionResolverInterface
 {
     /**
      * @var string

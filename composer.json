@@ -21,6 +21,7 @@
   "require": {
     "php": "~5.6 || ~7.0",
     "ramsey/uuid": "~3.5",
+    "src-run/augustus-compiler-library": "~0.7",
     "src-run/augustus-exception-library": "~0.6",
     "src-run/augustus-file-lock-library": "~0.7",
     "symfony/process": "~2.8 || ~3.0",
