@@ -1,0 +1,8348 @@
+---
+
+#
+# Mapping file from mime type to file extension.
+#
+# @updatedOn   2016-09-09 by @robfrawley
+# @dataSetFrom http://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types
+#
+
+-
+  mimeType: "application/1d-interleaved-parityfec"
+  extensions: []
+
+-
+  mimeType: "application/3gpdash-qoe-report+xml"
+  extensions: []
+
+-
+  mimeType: "application/3gpp-ims+xml"
+  extensions: []
+
+-
+  mimeType: "application/a2l"
+  extensions: []
+
+-
+  mimeType: "application/activemessage"
+  extensions: []
+
+-
+  mimeType: "application/alto-costmap+json"
+  extensions: []
+
+-
+  mimeType: "application/alto-costmapfilter+json"
+  extensions: []
+
+-
+  mimeType: "application/alto-directory+json"
+  extensions: []
+
+-
+  mimeType: "application/alto-endpointcost+json"
+  extensions: []
+
+-
+  mimeType: "application/alto-endpointcostparams+json"
+  extensions: []
+
+-
+  mimeType: "application/alto-endpointprop+json"
+  extensions: []
+
+-
+  mimeType: "application/alto-endpointpropparams+json"
+  extensions: []
+
+-
+  mimeType: "application/alto-error+json"
+  extensions: []
+
+-
+  mimeType: "application/alto-networkmap+json"
+  extensions: []
+
+-
+  mimeType: "application/alto-networkmapfilter+json"
+  extensions: []
+
+-
+  mimeType: "application/aml"
+  extensions: []
+
+-
+  mimeType: "application/andrew-inset"
+  extensions:
+    - ez
+
+-
+  mimeType: "application/applefile"
+  extensions: []
+
+-
+  mimeType: "application/applixware"
+  extensions:
+    - aw
+
+-
+  mimeType: "application/atf"
+  extensions: []
+
+-
+  mimeType: "application/atfx"
+  extensions: []
+
+-
+  mimeType: "application/atom+xml"
+  extensions:
+    - atom
+
+-
+  mimeType: "application/atomcat+xml"
+  extensions:
+    - atomcat
+
+-
+  mimeType: "application/atomdeleted+xml"
+  extensions: []
+
+-
+  mimeType: "application/atomicmail"
+  extensions: []
+
+-
+  mimeType: "application/atomsvc+xml"
+  extensions:
+    - atomsvc
+
+-
+  mimeType: "application/atxml"
+  extensions: []
+
+-
+  mimeType: "application/auth-policy+xml"
+  extensions: []
+
+-
+  mimeType: "application/bacnet-xdd+zip"
+  extensions: []
+
+-
+  mimeType: "application/batch-smtp"
+  extensions: []
+
+-
+  mimeType: "application/beep+xml"
+  extensions: []
+
+-
+  mimeType: "application/calendar+json"
+  extensions: []
+
+-
+  mimeType: "application/calendar+xml"
+  extensions: []
+
+-
+  mimeType: "application/call-completion"
+  extensions: []
+
+-
+  mimeType: "application/cals-1840"
+  extensions: []
+
+-
+  mimeType: "application/cbor"
+  extensions: []
+
+-
+  mimeType: "application/ccmp+xml"
+  extensions: []
+
+-
+  mimeType: "application/ccxml+xml"
+  extensions:
+    - ccxml
+
+-
+  mimeType: "application/cdfx+xml"
+  extensions: []
+
+-
+  mimeType: "application/cdmi-capability"
+  extensions:
+    - cdmia
+
+-
+  mimeType: "application/cdmi-container"
+  extensions:
+    - cdmic
+
+-
+  mimeType: "application/cdmi-domain"
+  extensions:
+    - cdmid
+
+-
+  mimeType: "application/cdmi-object"
+  extensions:
+    - cdmio
+
+-
+  mimeType: "application/cdmi-queue"
+  extensions:
+    - cdmiq
+
+-
+  mimeType: "application/cdni"
+  extensions: []
+
+-
+  mimeType: "application/cea"
+  extensions: []
+
+-
+  mimeType: "application/cea-2018+xml"
+  extensions: []
+
+-
+  mimeType: "application/cellml+xml"
+  extensions: []
+
+-
+  mimeType: "application/cfw"
+  extensions: []
+
+-
+  mimeType: "application/cms"
+  extensions: []
+
+-
+  mimeType: "application/cnrp+xml"
+  extensions: []
+
+-
+  mimeType: "application/coap-group+json"
+  extensions: []
+
+-
+  mimeType: "application/commonground"
+  extensions: []
+
+-
+  mimeType: "application/conference-info+xml"
+  extensions: []
+
+-
+  mimeType: "application/cpl+xml"
+  extensions: []
+
+-
+  mimeType: "application/csrattrs"
+  extensions: []
+
+-
+  mimeType: "application/csta+xml"
+  extensions: []
+
+-
+  mimeType: "application/cstadata+xml"
+  extensions: []
+
+-
+  mimeType: "application/csvm+json"
+  extensions: []
+
+-
+  mimeType: "application/cu-seeme"
+  extensions:
+    - cu
+
+-
+  mimeType: "application/cybercash"
+  extensions: []
+
+-
+  mimeType: "application/dash+xml"
+  extensions: []
+
+-
+  mimeType: "application/dashdelta"
+  extensions: []
+
+-
+  mimeType: "application/davmount+xml"
+  extensions:
+    - davmount
+
+-
+  mimeType: "application/dca-rft"
+  extensions: []
+
+-
+  mimeType: "application/dcd"
+  extensions: []
+
+-
+  mimeType: "application/dec-dx"
+  extensions: []
+
+-
+  mimeType: "application/dialog-info+xml"
+  extensions: []
+
+-
+  mimeType: "application/dicom"
+  extensions: []
+
+-
+  mimeType: "application/dii"
+  extensions: []
+
+-
+  mimeType: "application/dit"
+  extensions: []
+
+-
+  mimeType: "application/dns"
+  extensions: []
+
+-
+  mimeType: "application/docbook+xml"
+  extensions:
+    - dbk
+
+-
+  mimeType: "application/dskpp+xml"
+  extensions: []
+
+-
+  mimeType: "application/dssc+der"
+  extensions:
+    - dssc
+
+-
+  mimeType: "application/dssc+xml"
+  extensions:
+    - xdssc
+
+-
+  mimeType: "application/dvcs"
+  extensions: []
+
+-
+  mimeType: "application/ecmascript"
+  extensions:
+    - ecma
+
+-
+  mimeType: "application/edi-consent"
+  extensions: []
+
+-
+  mimeType: "application/edi-x12"
+  extensions: []
+
+-
+  mimeType: "application/edifact"
+  extensions: []
+
+-
+  mimeType: "application/efi"
+  extensions: []
+
+-
+  mimeType: "application/emergencycalldata.comment+xml"
+  extensions: []
+
+-
+  mimeType: "application/emergencycalldata.deviceinfo+xml"
+  extensions: []
+
+-
+  mimeType: "application/emergencycalldata.providerinfo+xml"
+  extensions: []
+
+-
+  mimeType: "application/emergencycalldata.serviceinfo+xml"
+  extensions: []
+
+-
+  mimeType: "application/emergencycalldata.subscriberinfo+xml"
+  extensions: []
+
+-
+  mimeType: "application/emma+xml"
+  extensions:
+    - emma
+
+-
+  mimeType: "application/emotionml+xml"
+  extensions: []
+
+-
+  mimeType: "application/encaprtp"
+  extensions: []
+
+-
+  mimeType: "application/epp+xml"
+  extensions: []
+
+-
+  mimeType: "application/epub+zip"
+  extensions:
+    - epub
+
+-
+  mimeType: "application/eshop"
+  extensions: []
+
+-
+  mimeType: "application/example"
+  extensions: []
+
+-
+  mimeType: "application/exi"
+  extensions:
+    - exi
+
+-
+  mimeType: "application/fastinfoset"
+  extensions: []
+
+-
+  mimeType: "application/fastsoap"
+  extensions: []
+
+-
+  mimeType: "application/fdt+xml"
+  extensions: []
+
+-
+  mimeType: "application/fits"
+  extensions: []
+
+-
+  mimeType: "application/font-sfnt"
+  extensions: []
+
+-
+  mimeType: "application/font-tdpfr"
+  extensions:
+    - pfr
+
+-
+  mimeType: "application/font-woff"
+  extensions:
+    - woff
+
+-
+  mimeType: "application/framework-attributes+xml"
+  extensions: []
+
+-
+  mimeType: "application/geo+json"
+  extensions: []
+
+-
+  mimeType: "application/gml+xml"
+  extensions:
+    - gml
+
+-
+  mimeType: "application/gpx+xml"
+  extensions:
+    - gpx
+
+-
+  mimeType: "application/gxf"
+  extensions:
+    - gxf
+
+-
+  mimeType: "application/gzip"
+  extensions: []
+
+-
+  mimeType: "application/h224"
+  extensions: []
+
+-
+  mimeType: "application/held+xml"
+  extensions: []
+
+-
+  mimeType: "application/http"
+  extensions: []
+
+-
+  mimeType: "application/hyperstudio"
+  extensions:
+    - stk
+
+-
+  mimeType: "application/ibe-key-request+xml"
+  extensions: []
+
+-
+  mimeType: "application/ibe-pkg-reply+xml"
+  extensions: []
+
+-
+  mimeType: "application/ibe-pp-data"
+  extensions: []
+
+-
+  mimeType: "application/iges"
+  extensions: []
+
+-
+  mimeType: "application/im-iscomposing+xml"
+  extensions: []
+
+-
+  mimeType: "application/index"
+  extensions: []
+
+-
+  mimeType: "application/index.cmd"
+  extensions: []
+
+-
+  mimeType: "application/index.obj"
+  extensions: []
+
+-
+  mimeType: "application/index.response"
+  extensions: []
+
+-
+  mimeType: "application/index.vnd"
+  extensions: []
+
+-
+  mimeType: "application/inkml+xml"
+  extensions:
+    - ink
+    - inkml
+
+-
+  mimeType: "application/iotp"
+  extensions: []
+
+-
+  mimeType: "application/ipfix"
+  extensions:
+    - ipfix
+
+-
+  mimeType: "application/ipp"
+  extensions: []
+
+-
+  mimeType: "application/isup"
+  extensions: []
+
+-
+  mimeType: "application/its+xml"
+  extensions: []
+
+-
+  mimeType: "application/java-archive"
+  extensions:
+    - jar
+
+-
+  mimeType: "application/java-serialized-object"
+  extensions:
+    - ser
+
+-
+  mimeType: "application/java-vm"
+  extensions:
+    - class
+
+-
+  mimeType: "application/javascript"
+  extensions:
+    - js
+
+-
+  mimeType: "application/jose"
+  extensions: []
+
+-
+  mimeType: "application/jose+json"
+  extensions: []
+
+-
+  mimeType: "application/jrd+json"
+  extensions: []
+
+-
+  mimeType: "application/json"
+  extensions:
+    - json
+
+-
+  mimeType: "application/json-patch+json"
+  extensions: []
+
+-
+  mimeType: "application/json-seq"
+  extensions: []
+
+-
+  mimeType: "application/jsonml+json"
+  extensions:
+    - jsonml
+
+-
+  mimeType: "application/jwk+json"
+  extensions: []
+
+-
+  mimeType: "application/jwk-set+json"
+  extensions: []
+
+-
+  mimeType: "application/jwt"
+  extensions: []
+
+-
+  mimeType: "application/kpml-request+xml"
+  extensions: []
+
+-
+  mimeType: "application/kpml-response+xml"
+  extensions: []
+
+-
+  mimeType: "application/ld+json"
+  extensions: []
+
+-
+  mimeType: "application/lgr+xml"
+  extensions: []
+
+-
+  mimeType: "application/link-format"
+  extensions: []
+
+-
+  mimeType: "application/load-control+xml"
+  extensions: []
+
+-
+  mimeType: "application/lost+xml"
+  extensions:
+    - lostxml
+
+-
+  mimeType: "application/lostsync+xml"
+  extensions: []
+
+-
+  mimeType: "application/lxf"
+  extensions: []
+
+-
+  mimeType: "application/mac-binhex40"
+  extensions:
+    - hqx
+
+-
+  mimeType: "application/mac-compactpro"
+  extensions:
+    - cpt
+
+-
+  mimeType: "application/macwriteii"
+  extensions: []
+
+-
+  mimeType: "application/mads+xml"
+  extensions:
+    - mads
+
+-
+  mimeType: "application/marc"
+  extensions:
+    - mrc
+
+-
+  mimeType: "application/marcxml+xml"
+  extensions:
+    - mrcx
+
+-
+  mimeType: "application/mathematica"
+  extensions:
+    - ma
+    - nb
+    - mb
+
+-
+  mimeType: "application/mathml+xml"
+  extensions:
+    - mathml
+
+-
+  mimeType: "application/mathml-content+xml"
+  extensions: []
+
+-
+  mimeType: "application/mathml-presentation+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbms-associated-procedure-description+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbms-deregister+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbms-envelope+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbms-msk+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbms-msk-response+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbms-protection-description+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbms-reception-report+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbms-register+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbms-register-response+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbms-schedule+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbms-user-service-description+xml"
+  extensions: []
+
+-
+  mimeType: "application/mbox"
+  extensions:
+    - mbox
+
+-
+  mimeType: "application/media-policy-dataset+xml"
+  extensions: []
+
+-
+  mimeType: "application/media_control+xml"
+  extensions: []
+
+-
+  mimeType: "application/mediaservercontrol+xml"
+  extensions:
+    - mscml
+
+-
+  mimeType: "application/merge-patch+json"
+  extensions: []
+
+-
+  mimeType: "application/metalink+xml"
+  extensions:
+    - metalink
+
+-
+  mimeType: "application/metalink4+xml"
+  extensions:
+    - meta4
+
+-
+  mimeType: "application/mets+xml"
+  extensions:
+    - mets
+
+-
+  mimeType: "application/mf4"
+  extensions: []
+
+-
+  mimeType: "application/mikey"
+  extensions: []
+
+-
+  mimeType: "application/mods+xml"
+  extensions:
+    - mods
+
+-
+  mimeType: "application/moss-keys"
+  extensions: []
+
+-
+  mimeType: "application/moss-signature"
+  extensions: []
+
+-
+  mimeType: "application/mosskey-data"
+  extensions: []
+
+-
+  mimeType: "application/mosskey-request"
+  extensions: []
+
+-
+  mimeType: "application/mp21"
+  extensions:
+    - m21
+    - mp21
+
+-
+  mimeType: "application/mp4"
+  extensions:
+    - mp4s
+
+-
+  mimeType: "application/mpeg4-generic"
+  extensions: []
+
+-
+  mimeType: "application/mpeg4-iod"
+  extensions: []
+
+-
+  mimeType: "application/mpeg4-iod-xmt"
+  extensions: []
+
+-
+  mimeType: "application/mrb-consumer+xml"
+  extensions: []
+
+-
+  mimeType: "application/mrb-publish+xml"
+  extensions: []
+
+-
+  mimeType: "application/msc-ivr+xml"
+  extensions: []
+
+-
+  mimeType: "application/msc-mixer+xml"
+  extensions: []
+
+-
+  mimeType: "application/msword"
+  extensions:
+    - doc
+    - dot
+
+-
+  mimeType: "application/mxf"
+  extensions:
+    - mxf
+
+-
+  mimeType: "application/nasdata"
+  extensions: []
+
+-
+  mimeType: "application/news-checkgroups"
+  extensions: []
+
+-
+  mimeType: "application/news-groupinfo"
+  extensions: []
+
+-
+  mimeType: "application/news-transmission"
+  extensions: []
+
+-
+  mimeType: "application/nlsml+xml"
+  extensions: []
+
+-
+  mimeType: "application/nss"
+  extensions: []
+
+-
+  mimeType: "application/ocsp-request"
+  extensions: []
+
+-
+  mimeType: "application/ocsp-response"
+  extensions: []
+
+-
+  mimeType: "application/octet-stream"
+  extensions:
+    - bin
+    - dms
+    - lrf
+    - mar
+    - so
+    - dist
+    - distz
+    - pkg
+    - bpk
+    - dump
+    - elc
+    - deploy
+
+-
+  mimeType: "application/oda"
+  extensions:
+    - oda
+
+-
+  mimeType: "application/odx"
+  extensions: []
+
+-
+  mimeType: "application/oebps-package+xml"
+  extensions:
+    - opf
+
+-
+  mimeType: "application/ogg"
+  extensions:
+    - ogx
+
+-
+  mimeType: "application/omdoc+xml"
+  extensions:
+    - omdoc
+
+-
+  mimeType: "application/onenote"
+  extensions:
+    - onetoc
+    - onetoc2
+    - onetmp
+    - onepkg
+
+-
+  mimeType: "application/oxps"
+  extensions:
+    - oxps
+
+-
+  mimeType: "application/p2p-overlay+xml"
+  extensions: []
+
+-
+  mimeType: "application/parityfec"
+  extensions: []
+
+-
+  mimeType: "application/patch-ops-error+xml"
+  extensions:
+    - xer
+
+-
+  mimeType: "application/pdf"
+  extensions:
+    - pdf
+
+-
+  mimeType: "application/pdx"
+  extensions: []
+
+-
+  mimeType: "application/pgp-encrypted"
+  extensions:
+    - pgp
+
+-
+  mimeType: "application/pgp-keys"
+  extensions: []
+
+-
+  mimeType: "application/pgp-signature"
+  extensions:
+    - asc
+    - sig
+
+-
+  mimeType: "application/pics-rules"
+  extensions:
+    - prf
+
+-
+  mimeType: "application/pidf+xml"
+  extensions: []
+
+-
+  mimeType: "application/pidf-diff+xml"
+  extensions: []
+
+-
+  mimeType: "application/pkcs10"
+  extensions:
+    - p10
+
+-
+  mimeType: "application/pkcs12"
+  extensions: []
+
+-
+  mimeType: "application/pkcs7-mime"
+  extensions:
+    - p7m
+    - p7c
+
+-
+  mimeType: "application/pkcs7-signature"
+  extensions:
+    - p7s
+
+-
+  mimeType: "application/pkcs8"
+  extensions:
+    - p8
+
+-
+  mimeType: "application/pkix-attr-cert"
+  extensions:
+    - ac
+
+-
+  mimeType: "application/pkix-cert"
+  extensions:
+    - cer
+
+-
+  mimeType: "application/pkix-crl"
+  extensions:
+    - crl
+
+-
+  mimeType: "application/pkix-pkipath"
+  extensions:
+    - pkipath
+
+-
+  mimeType: "application/pkixcmp"
+  extensions:
+    - pki
+
+-
+  mimeType: "application/pls+xml"
+  extensions:
+    - pls
+
+-
+  mimeType: "application/poc-settings+xml"
+  extensions: []
+
+-
+  mimeType: "application/postscript"
+  extensions:
+    - ai
+    - eps
+    - ps
+
+-
+  mimeType: "application/ppsp-tracker+json"
+  extensions: []
+
+-
+  mimeType: "application/problem+json"
+  extensions: []
+
+-
+  mimeType: "application/problem+xml"
+  extensions: []
+
+-
+  mimeType: "application/provenance+xml"
+  extensions: []
+
+-
+  mimeType: "application/prs.alvestrand.titrax-sheet"
+  extensions: []
+
+-
+  mimeType: "application/prs.cww"
+  extensions:
+    - cww
+
+-
+  mimeType: "application/prs.hpub+zip"
+  extensions: []
+
+-
+  mimeType: "application/prs.nprend"
+  extensions: []
+
+-
+  mimeType: "application/prs.plucker"
+  extensions: []
+
+-
+  mimeType: "application/prs.rdf-xml-crypt"
+  extensions: []
+
+-
+  mimeType: "application/prs.xsf+xml"
+  extensions: []
+
+-
+  mimeType: "application/pskc+xml"
+  extensions:
+    - pskcxml
+
+-
+  mimeType: "application/qsig"
+  extensions: []
+
+-
+  mimeType: "application/raptorfec"
+  extensions: []
+
+-
+  mimeType: "application/rdap+json"
+  extensions: []
+
+-
+  mimeType: "application/rdf+xml"
+  extensions:
+    - rdf
+
+-
+  mimeType: "application/reginfo+xml"
+  extensions:
+    - rif
+
+-
+  mimeType: "application/relax-ng-compact-syntax"
+  extensions:
+    - rnc
+
+-
+  mimeType: "application/remote-printing"
+  extensions: []
+
+-
+  mimeType: "application/reputon+json"
+  extensions: []
+
+-
+  mimeType: "application/resource-lists+xml"
+  extensions:
+    - rl
+
+-
+  mimeType: "application/resource-lists-diff+xml"
+  extensions:
+    - rld
+
+-
+  mimeType: "application/rfc+xml"
+  extensions: []
+
+-
+  mimeType: "application/riscos"
+  extensions: []
+
+-
+  mimeType: "application/rlmi+xml"
+  extensions: []
+
+-
+  mimeType: "application/rls-services+xml"
+  extensions:
+    - rs
+
+-
+  mimeType: "application/rpki-ghostbusters"
+  extensions:
+    - gbr
+
+-
+  mimeType: "application/rpki-manifest"
+  extensions:
+    - mft
+
+-
+  mimeType: "application/rpki-roa"
+  extensions:
+    - roa
+
+-
+  mimeType: "application/rpki-updown"
+  extensions: []
+
+-
+  mimeType: "application/rsd+xml"
+  extensions:
+    - rsd
+
+-
+  mimeType: "application/rss+xml"
+  extensions:
+    - rss
+
+-
+  mimeType: "application/rtf"
+  extensions:
+    - rtf
+
+-
+  mimeType: "application/rtploopback"
+  extensions: []
+
+-
+  mimeType: "application/rtx"
+  extensions: []
+
+-
+  mimeType: "application/samlassertion+xml"
+  extensions: []
+
+-
+  mimeType: "application/samlmetadata+xml"
+  extensions: []
+
+-
+  mimeType: "application/sbml+xml"
+  extensions:
+    - sbml
+
+-
+  mimeType: "application/scaip+xml"
+  extensions: []
+
+-
+  mimeType: "application/scim+json"
+  extensions: []
+
+-
+  mimeType: "application/scvp-cv-request"
+  extensions:
+    - scq
+
+-
+  mimeType: "application/scvp-cv-response"
+  extensions:
+    - scs
+
+-
+  mimeType: "application/scvp-vp-request"
+  extensions:
+    - spq
+
+-
+  mimeType: "application/scvp-vp-response"
+  extensions:
+    - spp
+
+-
+  mimeType: "application/sdp"
+  extensions:
+    - sdp
+
+-
+  mimeType: "application/sep+xml"
+  extensions: []
+
+-
+  mimeType: "application/sep-exi"
+  extensions: []
+
+-
+  mimeType: "application/session-info"
+  extensions: []
+
+-
+  mimeType: "application/set-payment"
+  extensions: []
+
+-
+  mimeType: "application/set-payment-initiation"
+  extensions:
+    - setpay
+
+-
+  mimeType: "application/set-registration"
+  extensions: []
+
+-
+  mimeType: "application/set-registration-initiation"
+  extensions:
+    - setreg
+
+-
+  mimeType: "application/sgml"
+  extensions: []
+
+-
+  mimeType: "application/sgml-open-catalog"
+  extensions: []
+
+-
+  mimeType: "application/shf+xml"
+  extensions:
+    - shf
+
+-
+  mimeType: "application/sieve"
+  extensions: []
+
+-
+  mimeType: "application/simple-filter+xml"
+  extensions: []
+
+-
+  mimeType: "application/simple-message-summary"
+  extensions: []
+
+-
+  mimeType: "application/simplesymbolcontainer"
+  extensions: []
+
+-
+  mimeType: "application/slate"
+  extensions: []
+
+-
+  mimeType: "application/smil"
+  extensions: []
+
+-
+  mimeType: "application/smil+xml"
+  extensions:
+    - smi
+    - smil
+
+-
+  mimeType: "application/smpte336m"
+  extensions: []
+
+-
+  mimeType: "application/soap+fastinfoset"
+  extensions: []
+
+-
+  mimeType: "application/soap+xml"
+  extensions: []
+
+-
+  mimeType: "application/sparql-query"
+  extensions:
+    - rq
+
+-
+  mimeType: "application/sparql-results+xml"
+  extensions:
+    - srx
+
+-
+  mimeType: "application/spirits-event+xml"
+  extensions: []
+
+-
+  mimeType: "application/sql"
+  extensions: []
+
+-
+  mimeType: "application/srgs"
+  extensions:
+    - gram
+
+-
+  mimeType: "application/srgs+xml"
+  extensions:
+    - grxml
+
+-
+  mimeType: "application/sru+xml"
+  extensions:
+    - sru
+
+-
+  mimeType: "application/ssdl+xml"
+  extensions:
+    - ssdl
+
+-
+  mimeType: "application/ssml+xml"
+  extensions:
+    - ssml
+
+-
+  mimeType: "application/tamp-apex-update"
+  extensions: []
+
+-
+  mimeType: "application/tamp-apex-update-confirm"
+  extensions: []
+
+-
+  mimeType: "application/tamp-community-update"
+  extensions: []
+
+-
+  mimeType: "application/tamp-community-update-confirm"
+  extensions: []
+
+-
+  mimeType: "application/tamp-error"
+  extensions: []
+
+-
+  mimeType: "application/tamp-sequence-adjust"
+  extensions: []
+
+-
+  mimeType: "application/tamp-sequence-adjust-confirm"
+  extensions: []
+
+-
+  mimeType: "application/tamp-status-query"
+  extensions: []
+
+-
+  mimeType: "application/tamp-status-response"
+  extensions: []
+
+-
+  mimeType: "application/tamp-update"
+  extensions: []
+
+-
+  mimeType: "application/tamp-update-confirm"
+  extensions: []
+
+-
+  mimeType: "application/tei+xml"
+  extensions:
+    - tei
+    - teicorpus
+
+-
+  mimeType: "application/thraud+xml"
+  extensions:
+    - tfi
+
+-
+  mimeType: "application/timestamp-query"
+  extensions: []
+
+-
+  mimeType: "application/timestamp-reply"
+  extensions: []
+
+-
+  mimeType: "application/timestamped-data"
+  extensions:
+    - tsd
+
+-
+  mimeType: "application/ttml+xml"
+  extensions: []
+
+-
+  mimeType: "application/tve-trigger"
+  extensions: []
+
+-
+  mimeType: "application/ulpfec"
+  extensions: []
+
+-
+  mimeType: "application/urc-grpsheet+xml"
+  extensions: []
+
+-
+  mimeType: "application/urc-ressheet+xml"
+  extensions: []
+
+-
+  mimeType: "application/urc-targetdesc+xml"
+  extensions: []
+
+-
+  mimeType: "application/urc-uisocketdesc+xml"
+  extensions: []
+
+-
+  mimeType: "application/vcard+json"
+  extensions: []
+
+-
+  mimeType: "application/vcard+xml"
+  extensions: []
+
+-
+  mimeType: "application/vemmi"
+  extensions: []
+
+-
+  mimeType: "application/vividence.scriptfile"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp-prose+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp-prose-pc3ch+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp.access-transfer-events+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp.bsf+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp.mid-call+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp.pic-bw-large"
+  extensions:
+    - plb
+
+-
+  mimeType: "application/vnd.3gpp.pic-bw-small"
+  extensions:
+    - psb
+
+-
+  mimeType: "application/vnd.3gpp.pic-bw-var"
+  extensions:
+    - pvb
+
+-
+  mimeType: "application/vnd.3gpp.sms"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp.sms+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp.srvcc-ext+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp.srvcc-info+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp.state-and-event-info+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp.ussd+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp2.bcmcsinfo+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp2.sms"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3gpp2.tcap"
+  extensions:
+    - tcap
+
+-
+  mimeType: "application/vnd.3lightssoftware.imagescal"
+  extensions: []
+
+-
+  mimeType: "application/vnd.3m.post-it-notes"
+  extensions:
+    - pwn
+
+-
+  mimeType: "application/vnd.accpac.simply.aso"
+  extensions:
+    - aso
+
+-
+  mimeType: "application/vnd.accpac.simply.imp"
+  extensions:
+    - imp
+
+-
+  mimeType: "application/vnd.acucobol"
+  extensions:
+    - acu
+
+-
+  mimeType: "application/vnd.acucorp"
+  extensions:
+    - atc
+    - acutc
+
+-
+  mimeType: "application/vnd.adobe.air-application-installer-package+zip"
+  extensions:
+    - air
+
+-
+  mimeType: "application/vnd.adobe.flash.movie"
+  extensions: []
+
+-
+  mimeType: "application/vnd.adobe.formscentral.fcdt"
+  extensions:
+    - fcdt
+
+-
+  mimeType: "application/vnd.adobe.fxp"
+  extensions:
+    - fxp
+    - fxpl
+
+-
+  mimeType: "application/vnd.adobe.partial-upload"
+  extensions: []
+
+-
+  mimeType: "application/vnd.adobe.xdp+xml"
+  extensions:
+    - xdp
+
+-
+  mimeType: "application/vnd.adobe.xfdf"
+  extensions:
+    - xfdf
+
+-
+  mimeType: "application/vnd.aether.imp"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ah-barcode"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ahead.space"
+  extensions:
+    - ahead
+
+-
+  mimeType: "application/vnd.airzip.filesecure.azf"
+  extensions:
+    - azf
+
+-
+  mimeType: "application/vnd.airzip.filesecure.azs"
+  extensions:
+    - azs
+
+-
+  mimeType: "application/vnd.amazon.ebook"
+  extensions:
+    - azw
+
+-
+  mimeType: "application/vnd.amazon.mobi8-ebook"
+  extensions: []
+
+-
+  mimeType: "application/vnd.americandynamics.acc"
+  extensions:
+    - acc
+
+-
+  mimeType: "application/vnd.amiga.ami"
+  extensions:
+    - ami
+
+-
+  mimeType: "application/vnd.amundsen.maze+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.android.package-archive"
+  extensions:
+    - apk
+
+-
+  mimeType: "application/vnd.anki"
+  extensions: []
+
+-
+  mimeType: "application/vnd.anser-web-certificate-issue-initiation"
+  extensions:
+    - cii
+
+-
+  mimeType: "application/vnd.anser-web-funds-transfer-initiation"
+  extensions:
+    - fti
+
+-
+  mimeType: "application/vnd.antix.game-component"
+  extensions:
+    - atx
+
+-
+  mimeType: "application/vnd.apache.thrift.binary"
+  extensions: []
+
+-
+  mimeType: "application/vnd.apache.thrift.compact"
+  extensions: []
+
+-
+  mimeType: "application/vnd.apache.thrift.json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.api+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.apple.installer+xml"
+  extensions:
+    - mpkg
+
+-
+  mimeType: "application/vnd.apple.mpegurl"
+  extensions:
+    - m3u8
+
+-
+  mimeType: "application/vnd.arastra.swi"
+  extensions: []
+
+-
+  mimeType: "application/vnd.aristanetworks.swi"
+  extensions:
+    - swi
+
+-
+  mimeType: "application/vnd.artsquare"
+  extensions: []
+
+-
+  mimeType: "application/vnd.astraea-software.iota"
+  extensions:
+    - iota
+
+-
+  mimeType: "application/vnd.audiograph"
+  extensions:
+    - aep
+
+-
+  mimeType: "application/vnd.autopackage"
+  extensions: []
+
+-
+  mimeType: "application/vnd.avistar+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.balsamiq.bmml+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.balsamiq.bmpr"
+  extensions: []
+
+-
+  mimeType: "application/vnd.bekitzur-stech+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.biopax.rdf+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.blueice.multipass"
+  extensions:
+    - mpm
+
+-
+  mimeType: "application/vnd.bluetooth.ep.oob"
+  extensions: []
+
+-
+  mimeType: "application/vnd.bluetooth.le.oob"
+  extensions: []
+
+-
+  mimeType: "application/vnd.bmi"
+  extensions:
+    - bmi
+
+-
+  mimeType: "application/vnd.businessobjects"
+  extensions:
+    - rep
+
+-
+  mimeType: "application/vnd.cab-jscript"
+  extensions: []
+
+-
+  mimeType: "application/vnd.canon-cpdl"
+  extensions: []
+
+-
+  mimeType: "application/vnd.canon-lips"
+  extensions: []
+
+-
+  mimeType: "application/vnd.cendio.thinlinc.clientconf"
+  extensions: []
+
+-
+  mimeType: "application/vnd.century-systems.tcp_stream"
+  extensions: []
+
+-
+  mimeType: "application/vnd.chemdraw+xml"
+  extensions:
+    - cdxml
+
+-
+  mimeType: "application/vnd.chess-pgn"
+  extensions: []
+
+-
+  mimeType: "application/vnd.chipnuts.karaoke-mmd"
+  extensions:
+    - mmd
+
+-
+  mimeType: "application/vnd.cinderella"
+  extensions:
+    - cdy
+
+-
+  mimeType: "application/vnd.cirpack.isdn-ext"
+  extensions: []
+
+-
+  mimeType: "application/vnd.citationstyles.style+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.claymore"
+  extensions:
+    - cla
+
+-
+  mimeType: "application/vnd.cloanto.rp9"
+  extensions:
+    - rp9
+
+-
+  mimeType: "application/vnd.clonk.c4group"
+  extensions:
+    - c4g
+    - c4d
+    - c4f
+    - c4p
+    - c4u
+
+-
+  mimeType: "application/vnd.cluetrust.cartomobile-config"
+  extensions:
+    - c11amc
+
+-
+  mimeType: "application/vnd.cluetrust.cartomobile-config-pkg"
+  extensions:
+    - c11amz
+
+-
+  mimeType: "application/vnd.coffeescript"
+  extensions: []
+
+-
+  mimeType: "application/vnd.collection+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.collection.doc+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.collection.next+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.comicbook+zip"
+  extensions: []
+
+-
+  mimeType: "application/vnd.commerce-battelle"
+  extensions: []
+
+-
+  mimeType: "application/vnd.commonspace"
+  extensions:
+    - csp
+
+-
+  mimeType: "application/vnd.contact.cmsg"
+  extensions:
+    - cdbcmsg
+
+-
+  mimeType: "application/vnd.coreos.ignition+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.cosmocaller"
+  extensions:
+    - cmc
+
+-
+  mimeType: "application/vnd.crick.clicker"
+  extensions:
+    - clkx
+
+-
+  mimeType: "application/vnd.crick.clicker.keyboard"
+  extensions:
+    - clkk
+
+-
+  mimeType: "application/vnd.crick.clicker.palette"
+  extensions:
+    - clkp
+
+-
+  mimeType: "application/vnd.crick.clicker.template"
+  extensions:
+    - clkt
+
+-
+  mimeType: "application/vnd.crick.clicker.wordbank"
+  extensions:
+    - clkw
+
+-
+  mimeType: "application/vnd.criticaltools.wbs+xml"
+  extensions:
+    - wbs
+
+-
+  mimeType: "application/vnd.ctc-posml"
+  extensions:
+    - pml
+
+-
+  mimeType: "application/vnd.ctct.ws+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.cups-pdf"
+  extensions: []
+
+-
+  mimeType: "application/vnd.cups-postscript"
+  extensions: []
+
+-
+  mimeType: "application/vnd.cups-ppd"
+  extensions:
+    - ppd
+
+-
+  mimeType: "application/vnd.cups-raster"
+  extensions: []
+
+-
+  mimeType: "application/vnd.cups-raw"
+  extensions: []
+
+-
+  mimeType: "application/vnd.curl"
+  extensions: []
+
+-
+  mimeType: "application/vnd.curl.car"
+  extensions:
+    - car
+
+-
+  mimeType: "application/vnd.curl.pcurl"
+  extensions:
+    - pcurl
+
+-
+  mimeType: "application/vnd.cyan.dean.root+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.cybank"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dart"
+  extensions:
+    - dart
+
+-
+  mimeType: "application/vnd.data-vision.rdz"
+  extensions:
+    - rdz
+
+-
+  mimeType: "application/vnd.debian.binary-package"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dece.data"
+  extensions:
+    - uvf
+    - uvvf
+    - uvd
+    - uvvd
+
+-
+  mimeType: "application/vnd.dece.ttml+xml"
+  extensions:
+    - uvt
+    - uvvt
+
+-
+  mimeType: "application/vnd.dece.unspecified"
+  extensions:
+    - uvx
+    - uvvx
+
+-
+  mimeType: "application/vnd.dece.zip"
+  extensions:
+    - uvz
+    - uvvz
+
+-
+  mimeType: "application/vnd.denovo.fcselayout-link"
+  extensions: [ fe_launch ]
+
+-
+  mimeType: "application/vnd.desmume.movie"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dir-bi.plate-dl-nosuffix"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dm.delegation+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dna"
+  extensions:
+    - dna
+
+-
+  mimeType: "application/vnd.document+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dolby.mlp"
+  extensions:
+    - mlp
+
+-
+  mimeType: "application/vnd.dolby.mobile.1"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dolby.mobile.2"
+  extensions: []
+
+-
+  mimeType: "application/vnd.doremir.scorecloud-binary-document"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dpgraph"
+  extensions:
+    - dpg
+
+-
+  mimeType: "application/vnd.dreamfactory"
+  extensions:
+    - dfac
+
+-
+  mimeType: "application/vnd.drive+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ds-keypoint"
+  extensions:
+    - kpxx
+
+-
+  mimeType: "application/vnd.dtg.local"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dtg.local.flash"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dtg.local.html"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.ait"
+  extensions:
+    - ait
+
+-
+  mimeType: "application/vnd.dvb.dvbj"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.esgcontainer"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.ipdcdftnotifaccess"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.ipdcesgaccess"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.ipdcesgaccess2"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.ipdcesgpdd"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.ipdcroaming"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.iptv.alfec-base"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.iptv.alfec-enhancement"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.notif-aggregate-root+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.notif-container+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.notif-generic+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.notif-ia-msglist+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.notif-ia-registration-request+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.notif-ia-registration-response+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.notif-init+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.pfr"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dvb.service"
+  extensions:
+    - svc
+
+-
+  mimeType: "application/vnd.dxr"
+  extensions: []
+
+-
+  mimeType: "application/vnd.dynageo"
+  extensions:
+    - geo
+
+-
+  mimeType: "application/vnd.dzr"
+  extensions: []
+
+-
+  mimeType: "application/vnd.easykaraoke.cdgdownload"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ecdis-update"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ecowin.chart"
+  extensions:
+    - mag
+
+-
+  mimeType: "application/vnd.ecowin.filerequest"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ecowin.fileupdate"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ecowin.series"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ecowin.seriesrequest"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ecowin.seriesupdate"
+  extensions: []
+
+-
+  mimeType: "application/vnd.emclient.accessrequest+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.enliven"
+  extensions:
+    - nml
+
+-
+  mimeType: "application/vnd.enphase.envoy"
+  extensions: []
+
+-
+  mimeType: "application/vnd.eprints.data+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.epson.esf"
+  extensions:
+    - esf
+
+-
+  mimeType: "application/vnd.epson.msf"
+  extensions:
+    - msf
+
+-
+  mimeType: "application/vnd.epson.quickanime"
+  extensions:
+    - qam
+
+-
+  mimeType: "application/vnd.epson.salt"
+  extensions:
+    - slt
+
+-
+  mimeType: "application/vnd.epson.ssf"
+  extensions:
+    - ssf
+
+-
+  mimeType: "application/vnd.ericsson.quickcall"
+  extensions: []
+
+-
+  mimeType: "application/vnd.eszigno3+xml"
+  extensions:
+    - es3
+    - et3
+
+-
+  mimeType: "application/vnd.etsi.aoc+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.asic-e+zip"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.asic-s+zip"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.cug+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.iptvcommand+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.iptvdiscovery+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.iptvprofile+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.iptvsad-bc+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.iptvsad-cod+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.iptvsad-npvr+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.iptvservice+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.iptvsync+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.iptvueprofile+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.mcid+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.mheg5"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.overload-control-policy-dataset+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.pstn+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.sci+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.simservs+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.timestamp-token"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.tsl+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.etsi.tsl.der"
+  extensions: []
+
+-
+  mimeType: "application/vnd.eudora.data"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ezpix-album"
+  extensions:
+    - ez2
+
+-
+  mimeType: "application/vnd.ezpix-package"
+  extensions:
+    - ez3
+
+-
+  mimeType: "application/vnd.f-secure.mobile"
+  extensions: []
+
+-
+  mimeType: "application/vnd.fastcopy-disk-image"
+  extensions: []
+
+-
+  mimeType: "application/vnd.fdf"
+  extensions:
+    - fdf
+
+-
+  mimeType: "application/vnd.fdsn.mseed"
+  extensions:
+    - mseed
+
+-
+  mimeType: "application/vnd.fdsn.seed"
+  extensions:
+    - seed
+    - dataless
+
+-
+  mimeType: "application/vnd.ffsns"
+  extensions: []
+
+-
+  mimeType: "application/vnd.filmit.zfc"
+  extensions: []
+
+-
+  mimeType: "application/vnd.fints"
+  extensions: []
+
+-
+  mimeType: "application/vnd.firemonkeys.cloudcell"
+  extensions: []
+
+-
+  mimeType: "application/vnd.flographit"
+  extensions:
+    - gph
+
+-
+  mimeType: "application/vnd.fluxtime.clip"
+  extensions:
+    - ftc
+
+-
+  mimeType: "application/vnd.font-fontforge-sfd"
+  extensions: []
+
+-
+  mimeType: "application/vnd.framemaker"
+  extensions:
+    - fm
+    - frame
+    - maker
+    - book
+
+-
+  mimeType: "application/vnd.frogans.fnc"
+  extensions:
+    - fnc
+
+-
+  mimeType: "application/vnd.frogans.ltf"
+  extensions:
+    - ltf
+
+-
+  mimeType: "application/vnd.fsc.weblaunch"
+  extensions:
+    - fsc
+
+-
+  mimeType: "application/vnd.fujitsu.oasys"
+  extensions:
+    - oas
+
+-
+  mimeType: "application/vnd.fujitsu.oasys2"
+  extensions:
+    - oa2
+
+-
+  mimeType: "application/vnd.fujitsu.oasys3"
+  extensions:
+    - oa3
+
+-
+  mimeType: "application/vnd.fujitsu.oasysgp"
+  extensions:
+    - fg5
+
+-
+  mimeType: "application/vnd.fujitsu.oasysprs"
+  extensions:
+    - bh2
+
+-
+  mimeType: "application/vnd.fujixerox.art-ex"
+  extensions: []
+
+-
+  mimeType: "application/vnd.fujixerox.art4"
+  extensions: []
+
+-
+  mimeType: "application/vnd.fujixerox.ddd"
+  extensions:
+    - ddd
+
+-
+  mimeType: "application/vnd.fujixerox.docuworks"
+  extensions:
+    - xdw
+
+-
+  mimeType: "application/vnd.fujixerox.docuworks.binder"
+  extensions:
+    - xbd
+
+-
+  mimeType: "application/vnd.fujixerox.docuworks.container"
+  extensions: []
+
+-
+  mimeType: "application/vnd.fujixerox.hbpl"
+  extensions: []
+
+-
+  mimeType: "application/vnd.fut-misnet"
+  extensions: []
+
+-
+  mimeType: "application/vnd.fuzzysheet"
+  extensions:
+    - fzs
+
+-
+  mimeType: "application/vnd.genomatix.tuxedo"
+  extensions:
+    - txd
+
+-
+  mimeType: "application/vnd.geo+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.geocube+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.geogebra.file"
+  extensions:
+    - ggb
+
+-
+  mimeType: "application/vnd.geogebra.tool"
+  extensions:
+    - ggt
+
+-
+  mimeType: "application/vnd.geometry-explorer"
+  extensions:
+    - gex
+    - gre
+
+-
+  mimeType: "application/vnd.geonext"
+  extensions:
+    - gxt
+
+-
+  mimeType: "application/vnd.geoplan"
+  extensions:
+    - g2w
+
+-
+  mimeType: "application/vnd.geospace"
+  extensions:
+    - g3w
+
+-
+  mimeType: "application/vnd.gerber"
+  extensions: []
+
+-
+  mimeType: "application/vnd.globalplatform.card-content-mgt"
+  extensions: []
+
+-
+  mimeType: "application/vnd.globalplatform.card-content-mgt-response"
+  extensions: []
+
+-
+  mimeType: "application/vnd.gmx"
+  extensions:
+    - gmx
+
+-
+  mimeType: "application/vnd.google-earth.kml+xml"
+  extensions:
+    - kml
+
+-
+  mimeType: "application/vnd.google-earth.kmz"
+  extensions:
+    - kmz
+
+-
+  mimeType: "application/vnd.gov.sk.e-form+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.gov.sk.e-form+zip"
+  extensions: []
+
+-
+  mimeType: "application/vnd.gov.sk.xmldatacontainer+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.grafeq"
+  extensions:
+    - gqf
+    - gqs
+
+-
+  mimeType: "application/vnd.gridmp"
+  extensions: []
+
+-
+  mimeType: "application/vnd.groove-account"
+  extensions:
+    - gac
+
+-
+  mimeType: "application/vnd.groove-help"
+  extensions:
+    - ghf
+
+-
+  mimeType: "application/vnd.groove-identity-message"
+  extensions:
+    - gim
+
+-
+  mimeType: "application/vnd.groove-injector"
+  extensions:
+    - grv
+
+-
+  mimeType: "application/vnd.groove-tool-message"
+  extensions:
+    - gtm
+
+-
+  mimeType: "application/vnd.groove-tool-template"
+  extensions:
+    - tpl
+
+-
+  mimeType: "application/vnd.groove-vcard"
+  extensions:
+    - vcg
+
+-
+  mimeType: "application/vnd.hal+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.hal+xml"
+  extensions:
+    - hal
+
+-
+  mimeType: "application/vnd.handheld-entertainment+xml"
+  extensions:
+    - zmm
+
+-
+  mimeType: "application/vnd.hbci"
+  extensions:
+    - hbci
+
+-
+  mimeType: "application/vnd.hcl-bireports"
+  extensions: []
+
+-
+  mimeType: "application/vnd.hdt"
+  extensions: []
+
+-
+  mimeType: "application/vnd.heroku+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.hhe.lesson-player"
+  extensions:
+    - les
+
+-
+  mimeType: "application/vnd.hp-hpgl"
+  extensions:
+    - hpgl
+
+-
+  mimeType: "application/vnd.hp-hpid"
+  extensions:
+    - hpid
+
+-
+  mimeType: "application/vnd.hp-hps"
+  extensions:
+    - hps
+
+-
+  mimeType: "application/vnd.hp-jlyt"
+  extensions:
+    - jlt
+
+-
+  mimeType: "application/vnd.hp-pcl"
+  extensions:
+    - pcl
+
+-
+  mimeType: "application/vnd.hp-pclxl"
+  extensions:
+    - pclxl
+
+-
+  mimeType: "application/vnd.httphone"
+  extensions: []
+
+-
+  mimeType: "application/vnd.hydrostatix.sof-data"
+  extensions: [ sfd-hdstx ]
+
+-
+  mimeType: "application/vnd.hyperdrive+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.hzn-3d-crossword"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ibm.afplinedata"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ibm.electronic-media"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ibm.minipay"
+  extensions:
+    - mpy
+
+-
+  mimeType: "application/vnd.ibm.modcap"
+  extensions:
+    - afp
+    - listafp
+    - list3820
+
+-
+  mimeType: "application/vnd.ibm.rights-management"
+  extensions:
+    - irm
+
+-
+  mimeType: "application/vnd.ibm.secure-container"
+  extensions:
+    - sc
+
+-
+  mimeType: "application/vnd.iccprofile"
+  extensions:
+    - icc
+    - icm
+
+-
+  mimeType: "application/vnd.ieee.1905"
+  extensions: []
+
+-
+  mimeType: "application/vnd.igloader"
+  extensions:
+    - igl
+
+-
+  mimeType: "application/vnd.immervision-ivp"
+  extensions:
+    - ivp
+
+-
+  mimeType: "application/vnd.immervision-ivu"
+  extensions:
+    - ivu
+
+-
+  mimeType: "application/vnd.ims.imsccv1p1"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ims.imsccv1p2"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ims.imsccv1p3"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ims.lis.v2.result+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ims.lti.v2.toolconsumerprofile+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ims.lti.v2.toolproxy+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ims.lti.v2.toolproxy.id+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ims.lti.v2.toolsettings+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ims.lti.v2.toolsettings.simple+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.informedcontrol.rms+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.informix-visionary"
+  extensions: []
+
+-
+  mimeType: "application/vnd.infotech.project"
+  extensions: []
+
+-
+  mimeType: "application/vnd.infotech.project+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.innopath.wamp.notification"
+  extensions: []
+
+-
+  mimeType: "application/vnd.insors.igm"
+  extensions:
+    - igm
+
+-
+  mimeType: "application/vnd.intercon.formnet"
+  extensions:
+    - xpw
+    - xpx
+
+-
+  mimeType: "application/vnd.intergeo"
+  extensions:
+    - i2g
+
+-
+  mimeType: "application/vnd.intertrust.digibox"
+  extensions: []
+
+-
+  mimeType: "application/vnd.intertrust.nncp"
+  extensions: []
+
+-
+  mimeType: "application/vnd.intu.qbo"
+  extensions:
+    - qbo
+
+-
+  mimeType: "application/vnd.intu.qfx"
+  extensions:
+    - qfx
+
+-
+  mimeType: "application/vnd.iptc.g2.catalogitem+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.iptc.g2.conceptitem+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.iptc.g2.knowledgeitem+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.iptc.g2.newsitem+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.iptc.g2.newsmessage+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.iptc.g2.packageitem+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.iptc.g2.planningitem+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ipunplugged.rcprofile"
+  extensions:
+    - rcprofile
+
+-
+  mimeType: "application/vnd.irepository.package+xml"
+  extensions:
+    - irp
+
+-
+  mimeType: "application/vnd.is-xpr"
+  extensions:
+    - xpr
+
+-
+  mimeType: "application/vnd.isac.fcs"
+  extensions:
+    - fcs
+
+-
+  mimeType: "application/vnd.jam"
+  extensions:
+    - jam
+
+-
+  mimeType: "application/vnd.japannet-directory-service"
+  extensions: []
+
+-
+  mimeType: "application/vnd.japannet-jpnstore-wakeup"
+  extensions: []
+
+-
+  mimeType: "application/vnd.japannet-payment-wakeup"
+  extensions: []
+
+-
+  mimeType: "application/vnd.japannet-registration"
+  extensions: []
+
+-
+  mimeType: "application/vnd.japannet-registration-wakeup"
+  extensions: []
+
+-
+  mimeType: "application/vnd.japannet-setstore-wakeup"
+  extensions: []
+
+-
+  mimeType: "application/vnd.japannet-verification"
+  extensions: []
+
+-
+  mimeType: "application/vnd.japannet-verification-wakeup"
+  extensions: []
+
+-
+  mimeType: "application/vnd.jcp.javame.midlet-rms"
+  extensions:
+    - rms
+
+-
+  mimeType: "application/vnd.jisp"
+  extensions:
+    - jisp
+
+-
+  mimeType: "application/vnd.joost.joda-archive"
+  extensions:
+    - joda
+
+-
+  mimeType: "application/vnd.jsk.isdn-ngn"
+  extensions: []
+
+-
+  mimeType: "application/vnd.kahootz"
+  extensions:
+    - ktz
+    - ktr
+
+-
+  mimeType: "application/vnd.kde.karbon"
+  extensions:
+    - karbon
+
+-
+  mimeType: "application/vnd.kde.kchart"
+  extensions:
+    - chrt
+
+-
+  mimeType: "application/vnd.kde.kformula"
+  extensions:
+    - kfo
+
+-
+  mimeType: "application/vnd.kde.kivio"
+  extensions:
+    - flw
+
+-
+  mimeType: "application/vnd.kde.kontour"
+  extensions:
+    - kon
+
+-
+  mimeType: "application/vnd.kde.kpresenter"
+  extensions:
+    - kpr
+    - kpt
+
+-
+  mimeType: "application/vnd.kde.kspread"
+  extensions:
+    - ksp
+
+-
+  mimeType: "application/vnd.kde.kword"
+  extensions:
+    - kwd
+    - kwt
+
+-
+  mimeType: "application/vnd.kenameaapp"
+  extensions:
+    - htke
+
+-
+  mimeType: "application/vnd.kidspiration"
+  extensions:
+    - kia
+
+-
+  mimeType: "application/vnd.kinar"
+  extensions:
+    - kne
+    - knp
+
+-
+  mimeType: "application/vnd.koan"
+  extensions:
+    - skp
+    - skd
+    - skt
+    - skm
+
+-
+  mimeType: "application/vnd.kodak-descriptor"
+  extensions:
+    - sse
+
+-
+  mimeType: "application/vnd.las.las+xml"
+  extensions:
+    - lasxml
+
+-
+  mimeType: "application/vnd.liberty-request+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.llamagraphics.life-balance.desktop"
+  extensions:
+    - lbd
+
+-
+  mimeType: "application/vnd.llamagraphics.life-balance.exchange+xml"
+  extensions:
+    - lbe
+
+-
+  mimeType: "application/vnd.lotus-1-2-3"
+  extensions:
+    - 123
+
+-
+  mimeType: "application/vnd.lotus-approach"
+  extensions:
+    - apr
+
+-
+  mimeType: "application/vnd.lotus-freelance"
+  extensions:
+    - pre
+
+-
+  mimeType: "application/vnd.lotus-notes"
+  extensions:
+    - nsf
+
+-
+  mimeType: "application/vnd.lotus-organizer"
+  extensions:
+    - org
+
+-
+  mimeType: "application/vnd.lotus-screencam"
+  extensions:
+    - scm
+
+-
+  mimeType: "application/vnd.lotus-wordpro"
+  extensions:
+    - lwp
+
+-
+  mimeType: "application/vnd.macports.portpkg"
+  extensions:
+    - portpkg
+
+-
+  mimeType: "application/vnd.mapbox-vector-tile"
+  extensions: []
+
+-
+  mimeType: "application/vnd.marlin.drm.actiontoken+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.marlin.drm.conftoken+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.marlin.drm.license+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.marlin.drm.mdcf"
+  extensions: []
+
+-
+  mimeType: "application/vnd.mason+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.maxmind.maxmind-db"
+  extensions: []
+
+-
+  mimeType: "application/vnd.mcd"
+  extensions:
+    - mcd
+
+-
+  mimeType: "application/vnd.medcalcdata"
+  extensions:
+    - mc1
+
+-
+  mimeType: "application/vnd.mediastation.cdkey"
+  extensions:
+    - cdkey
+
+-
+  mimeType: "application/vnd.meridian-slingshot"
+  extensions: []
+
+-
+  mimeType: "application/vnd.mfer"
+  extensions:
+    - mwf
+
+-
+  mimeType: "application/vnd.mfmp"
+  extensions:
+    - mfm
+
+-
+  mimeType: "application/vnd.micro+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.micrografx.flo"
+  extensions:
+    - flo
+
+-
+  mimeType: "application/vnd.micrografx.igx"
+  extensions:
+    - igx
+
+-
+  mimeType: "application/vnd.microsoft.portable-executable"
+  extensions: []
+
+-
+  mimeType: "application/vnd.miele+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.mif"
+  extensions:
+    - mif
+
+-
+  mimeType: "application/vnd.minisoft-hp3000-save"
+  extensions: []
+
+-
+  mimeType: "application/vnd.mitsubishi.misty-guard.trustweb"
+  extensions: []
+
+-
+  mimeType: "application/vnd.mobius.daf"
+  extensions:
+    - daf
+
+-
+  mimeType: "application/vnd.mobius.dis"
+  extensions:
+    - dis
+
+-
+  mimeType: "application/vnd.mobius.mbk"
+  extensions:
+    - mbk
+
+-
+  mimeType: "application/vnd.mobius.mqy"
+  extensions:
+    - mqy
+
+-
+  mimeType: "application/vnd.mobius.msl"
+  extensions:
+    - msl
+
+-
+  mimeType: "application/vnd.mobius.plc"
+  extensions:
+    - plc
+
+-
+  mimeType: "application/vnd.mobius.txf"
+  extensions:
+    - txf
+
+-
+  mimeType: "application/vnd.mophun.application"
+  extensions:
+    - mpn
+
+-
+  mimeType: "application/vnd.mophun.certificate"
+  extensions:
+    - mpc
+
+-
+  mimeType: "application/vnd.motorola.flexsuite"
+  extensions: []
+
+-
+  mimeType: "application/vnd.motorola.flexsuite.adsi"
+  extensions: []
+
+-
+  mimeType: "application/vnd.motorola.flexsuite.fis"
+  extensions: []
+
+-
+  mimeType: "application/vnd.motorola.flexsuite.gotap"
+  extensions: []
+
+-
+  mimeType: "application/vnd.motorola.flexsuite.kmr"
+  extensions: []
+
+-
+  mimeType: "application/vnd.motorola.flexsuite.ttc"
+  extensions: []
+
+-
+  mimeType: "application/vnd.motorola.flexsuite.wem"
+  extensions: []
+
+-
+  mimeType: "application/vnd.motorola.iprm"
+  extensions: []
+
+-
+  mimeType: "application/vnd.mozilla.xul+xml"
+  extensions:
+    - xul
+
+-
+  mimeType: "application/vnd.ms-3mfdocument"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-artgalry"
+  extensions:
+    - cil
+
+-
+  mimeType: "application/vnd.ms-asf"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-cab-compressed"
+  extensions:
+    - cab
+
+-
+  mimeType: "application/vnd.ms-color.iccprofile"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-excel"
+  extensions:
+    - xls
+    - xlm
+    - xla
+    - xlc
+    - xlt
+    - xlw
+
+-
+  mimeType: "application/vnd.ms-excel.addin.macroenabled.12"
+  extensions:
+    - xlam
+
+-
+  mimeType: "application/vnd.ms-excel.sheet.binary.macroenabled.12"
+  extensions:
+    - xlsb
+
+-
+  mimeType: "application/vnd.ms-excel.sheet.macroenabled.12"
+  extensions:
+    - xlsm
+
+-
+  mimeType: "application/vnd.ms-excel.template.macroenabled.12"
+  extensions:
+    - xltm
+
+-
+  mimeType: "application/vnd.ms-fontobject"
+  extensions:
+    - eot
+
+-
+  mimeType: "application/vnd.ms-htmlhelp"
+  extensions:
+    - chm
+
+-
+  mimeType: "application/vnd.ms-ims"
+  extensions:
+    - ims
+
+-
+  mimeType: "application/vnd.ms-lrm"
+  extensions:
+    - lrm
+
+-
+  mimeType: "application/vnd.ms-office.activex+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-officetheme"
+  extensions:
+    - thmx
+
+-
+  mimeType: "application/vnd.ms-opentype"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-package.obfuscated-opentype"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-pki.seccat"
+  extensions:
+    - cat
+
+-
+  mimeType: "application/vnd.ms-pki.stl"
+  extensions:
+    - stl
+
+-
+  mimeType: "application/vnd.ms-playready.initiator+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-powerpoint"
+  extensions:
+    - ppt
+    - pps
+    - pot
+
+-
+  mimeType: "application/vnd.ms-powerpoint.addin.macroenabled.12"
+  extensions:
+    - ppam
+
+-
+  mimeType: "application/vnd.ms-powerpoint.presentation.macroenabled.12"
+  extensions:
+    - pptm
+
+-
+  mimeType: "application/vnd.ms-powerpoint.slide.macroenabled.12"
+  extensions:
+    - sldm
+
+-
+  mimeType: "application/vnd.ms-powerpoint.slideshow.macroenabled.12"
+  extensions:
+    - ppsm
+
+-
+  mimeType: "application/vnd.ms-powerpoint.template.macroenabled.12"
+  extensions:
+    - potm
+
+-
+  mimeType: "application/vnd.ms-printdevicecapabilities+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-printing.printticket+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-printschematicket+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-project"
+  extensions:
+    - mpp
+    - mpt
+
+-
+  mimeType: "application/vnd.ms-tnef"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-windows.devicepairing"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-windows.nwprinting.oob"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-windows.printerpairing"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-windows.wsd.oob"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-wmdrm.lic-chlg-req"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-wmdrm.lic-resp"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-wmdrm.meter-chlg-req"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-wmdrm.meter-resp"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ms-word.document.macroenabled.12"
+  extensions:
+    - docm
+
+-
+  mimeType: "application/vnd.ms-word.template.macroenabled.12"
+  extensions:
+    - dotm
+
+-
+  mimeType: "application/vnd.ms-works"
+  extensions:
+    - wps
+    - wks
+    - wcm
+    - wdb
+
+-
+  mimeType: "application/vnd.ms-wpl"
+  extensions:
+    - wpl
+
+-
+  mimeType: "application/vnd.ms-xpsdocument"
+  extensions:
+    - xps
+
+-
+  mimeType: "application/vnd.msa-disk-image"
+  extensions: []
+
+-
+  mimeType: "application/vnd.mseq"
+  extensions:
+    - mseq
+
+-
+  mimeType: "application/vnd.msign"
+  extensions: []
+
+-
+  mimeType: "application/vnd.multiad.creator"
+  extensions: []
+
+-
+  mimeType: "application/vnd.multiad.creator.cif"
+  extensions: []
+
+-
+  mimeType: "application/vnd.music-niff"
+  extensions: []
+
+-
+  mimeType: "application/vnd.musician"
+  extensions:
+    - mus
+
+-
+  mimeType: "application/vnd.muvee.style"
+  extensions:
+    - msty
+
+-
+  mimeType: "application/vnd.mynfc"
+  extensions:
+    - taglet
+
+-
+  mimeType: "application/vnd.ncd.control"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ncd.reference"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nervana"
+  extensions: []
+
+-
+  mimeType: "application/vnd.netfpx"
+  extensions: []
+
+-
+  mimeType: "application/vnd.neurolanguage.nlu"
+  extensions:
+    - nlu
+
+-
+  mimeType: "application/vnd.nintendo.nitro.rom"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nintendo.snes.rom"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nitf"
+  extensions:
+    - ntf
+    - nitf
+
+-
+  mimeType: "application/vnd.noblenet-directory"
+  extensions:
+    - nnd
+
+-
+  mimeType: "application/vnd.noblenet-sealer"
+  extensions:
+    - nns
+
+-
+  mimeType: "application/vnd.noblenet-web"
+  extensions:
+    - nnw
+
+-
+  mimeType: "application/vnd.nokia.catalogs"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.conml+wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.conml+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.iptv.config+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.isds-radio-presets"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.landmark+wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.landmark+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.landmarkcollection+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.n-gage.ac+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.n-gage.data"
+  extensions:
+    - ngdat
+
+-
+  mimeType: "application/vnd.nokia.n-gage.symbian.install"
+  extensions: [ n-gage ]
+
+-
+  mimeType: "application/vnd.nokia.ncd"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.pcd+wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.pcd+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.nokia.radio-preset"
+  extensions:
+    - rpst
+
+-
+  mimeType: "application/vnd.nokia.radio-presets"
+  extensions:
+    - rpss
+
+-
+  mimeType: "application/vnd.novadigm.edm"
+  extensions:
+    - edm
+
+-
+  mimeType: "application/vnd.novadigm.edx"
+  extensions:
+    - edx
+
+-
+  mimeType: "application/vnd.novadigm.ext"
+  extensions:
+    - ext
+
+-
+  mimeType: "application/vnd.ntt-local.content-share"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ntt-local.file-transfer"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ntt-local.ogw_remote-access"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ntt-local.sip-ta_remote"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ntt-local.sip-ta_tcp_stream"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oasis.opendocument.chart"
+  extensions:
+    - odc
+
+-
+  mimeType: "application/vnd.oasis.opendocument.chart-template"
+  extensions:
+    - otc
+
+-
+  mimeType: "application/vnd.oasis.opendocument.database"
+  extensions:
+    - odb
+
+-
+  mimeType: "application/vnd.oasis.opendocument.formula"
+  extensions:
+    - odf
+
+-
+  mimeType: "application/vnd.oasis.opendocument.formula-template"
+  extensions:
+    - odft
+
+-
+  mimeType: "application/vnd.oasis.opendocument.graphics"
+  extensions:
+    - odg
+
+-
+  mimeType: "application/vnd.oasis.opendocument.graphics-template"
+  extensions:
+    - otg
+
+-
+  mimeType: "application/vnd.oasis.opendocument.image"
+  extensions:
+    - odi
+
+-
+  mimeType: "application/vnd.oasis.opendocument.image-template"
+  extensions:
+    - oti
+
+-
+  mimeType: "application/vnd.oasis.opendocument.presentation"
+  extensions:
+    - odp
+
+-
+  mimeType: "application/vnd.oasis.opendocument.presentation-template"
+  extensions:
+    - otp
+
+-
+  mimeType: "application/vnd.oasis.opendocument.spreadsheet"
+  extensions:
+    - ods
+
+-
+  mimeType: "application/vnd.oasis.opendocument.spreadsheet-template"
+  extensions:
+    - ots
+
+-
+  mimeType: "application/vnd.oasis.opendocument.text"
+  extensions:
+    - odt
+
+-
+  mimeType: "application/vnd.oasis.opendocument.text-master"
+  extensions:
+    - odm
+
+-
+  mimeType: "application/vnd.oasis.opendocument.text-template"
+  extensions:
+    - ott
+
+-
+  mimeType: "application/vnd.oasis.opendocument.text-web"
+  extensions:
+    - oth
+
+-
+  mimeType: "application/vnd.obn"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oftn.l10n+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oipf.contentaccessdownload+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oipf.contentaccessstreaming+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oipf.cspg-hexbinary"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oipf.dae.svg+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oipf.dae.xhtml+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oipf.mippvcontrolmessage+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oipf.pae.gem"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oipf.spdiscovery+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oipf.spdlist+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oipf.ueprofile+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oipf.userprofile+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.olpc-sugar"
+  extensions:
+    - xo
+
+-
+  mimeType: "application/vnd.oma-scws-config"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma-scws-http-request"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma-scws-http-response"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.associated-procedure-parameter+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.drm-trigger+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.imd+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.ltkm"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.notification+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.provisioningtrigger"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.sgboot"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.sgdd+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.sgdu"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.simple-symbol-container"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.smartcard-trigger+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.sprov+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.bcast.stkm"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.cab-address-book+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.cab-feature-handler+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.cab-pcc+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.cab-subs-invite+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.cab-user-prefs+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.dcd"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.dcdc"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.dd2+xml"
+  extensions:
+    - dd2
+
+-
+  mimeType: "application/vnd.oma.drm.risd+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.group-usage-list+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.lwm2m+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.lwm2m+tlv"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.pal+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.poc.detailed-progress-report+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.poc.final-report+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.poc.groups+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.poc.invocation-descriptor+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.poc.optimized-progress-report+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.push"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.scidm.messages+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oma.xcap-directory+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.omads-email+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.omads-file+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.omads-folder+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.omaloc-supl-init"
+  extensions: []
+
+-
+  mimeType: "application/vnd.onepager"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openblox.game+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openblox.game-binary"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openeye.oeb"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openofficeorg.extension"
+  extensions:
+    - oxt
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.custom-properties+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.customxmlproperties+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.drawing+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.drawingml.chart+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.drawingml.chartshapes+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.drawingml.diagramcolors+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.drawingml.diagramdata+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.drawingml.diagramlayout+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.drawingml.diagramstyle+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.extended-properties+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.commentauthors+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.comments+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.handoutmaster+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.notesmaster+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.notesslide+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+  extensions:
+    - pptx
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.presentation.main+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.presprops+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.slide"
+  extensions:
+    - sldx
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.slide+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.slidelayout+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.slidemaster+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.slideshow"
+  extensions:
+    - ppsx
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.slideupdateinfo+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.tablestyles+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.tags+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.template"
+  extensions:
+    - potx
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.template.main+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.presentationml.viewprops+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.calcchain+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.connections+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.externallink+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.pivotcachedefinition+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.pivotcacherecords+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.pivottable+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.querytable+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.revisionheaders+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.revisionlog+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sharedstrings+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  extensions:
+    - xlsx
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheetmetadata+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.tablesinglecells+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.template"
+  extensions:
+    - xltx
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.usernames+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.volatiledependencies+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.theme+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.themeoverride+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.vmldrawing"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  extensions:
+    - docx
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.fonttable+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.template"
+  extensions:
+    - dotx
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-officedocument.wordprocessingml.websettings+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-package.core-properties+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-package.digital-signature-xmlsignature+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.openxmlformats-package.relationships+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oracle.resource+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.orange.indata"
+  extensions: []
+
+-
+  mimeType: "application/vnd.osa.netdeploy"
+  extensions: []
+
+-
+  mimeType: "application/vnd.osgeo.mapguide.package"
+  extensions:
+    - mgp
+
+-
+  mimeType: "application/vnd.osgi.bundle"
+  extensions: []
+
+-
+  mimeType: "application/vnd.osgi.dp"
+  extensions:
+    - dp
+
+-
+  mimeType: "application/vnd.osgi.subsystem"
+  extensions:
+    - esa
+
+-
+  mimeType: "application/vnd.otps.ct-kip+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.oxli.countgraph"
+  extensions: []
+
+-
+  mimeType: "application/vnd.pagerduty+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.palm"
+  extensions:
+    - pdb
+    - pqa
+    - oprc
+
+-
+  mimeType: "application/vnd.panoply"
+  extensions: []
+
+-
+  mimeType: "application/vnd.paos.xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.pawaafile"
+  extensions:
+    - paw
+
+-
+  mimeType: "application/vnd.pcos"
+  extensions: []
+
+-
+  mimeType: "application/vnd.pg.format"
+  extensions:
+    - str
+
+-
+  mimeType: "application/vnd.pg.osasli"
+  extensions:
+    - ei6
+
+-
+  mimeType: "application/vnd.piaccess.application-licence"
+  extensions: []
+
+-
+  mimeType: "application/vnd.picsel"
+  extensions:
+    - efif
+
+-
+  mimeType: "application/vnd.pmi.widget"
+  extensions:
+    - wg
+
+-
+  mimeType: "application/vnd.poc.group-advertisement+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.pocketlearn"
+  extensions:
+    - plf
+
+-
+  mimeType: "application/vnd.powerbuilder6"
+  extensions:
+    - pbd
+
+-
+  mimeType: "application/vnd.powerbuilder6-s"
+  extensions: []
+
+-
+  mimeType: "application/vnd.powerbuilder7"
+  extensions: []
+
+-
+  mimeType: "application/vnd.powerbuilder7-s"
+  extensions: []
+
+-
+  mimeType: "application/vnd.powerbuilder75"
+  extensions: []
+
+-
+  mimeType: "application/vnd.powerbuilder75-s"
+  extensions: []
+
+-
+  mimeType: "application/vnd.preminet"
+  extensions: []
+
+-
+  mimeType: "application/vnd.previewsystems.box"
+  extensions:
+    - box
+
+-
+  mimeType: "application/vnd.proteus.magazine"
+  extensions:
+    - mgz
+
+-
+  mimeType: "application/vnd.publishare-delta-tree"
+  extensions:
+    - qps
+
+-
+  mimeType: "application/vnd.pvi.ptid1"
+  extensions:
+    - ptid
+
+-
+  mimeType: "application/vnd.pwg-multiplexed"
+  extensions: []
+
+-
+  mimeType: "application/vnd.pwg-xhtml-print+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.qualcomm.brew-app-res"
+  extensions: []
+
+-
+  mimeType: "application/vnd.quarantainenet"
+  extensions: []
+
+-
+  mimeType: "application/vnd.quark.quarkxpress"
+  extensions:
+    - qxd
+    - qxt
+    - qwd
+    - qwt
+    - qxl
+    - qxb
+
+-
+  mimeType: "application/vnd.quobject-quoxdocument"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.moml+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-audit+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-audit-conf+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-audit-conn+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-audit-dialog+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-audit-stream+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-conf+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-dialog+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-dialog-base+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-dialog-fax-detect+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-dialog-fax-sendrecv+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-dialog-group+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-dialog-speech+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.radisys.msml-dialog-transform+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.rainstor.data"
+  extensions: []
+
+-
+  mimeType: "application/vnd.rapid"
+  extensions: []
+
+-
+  mimeType: "application/vnd.rar"
+  extensions: []
+
+-
+  mimeType: "application/vnd.realvnc.bed"
+  extensions:
+    - bed
+
+-
+  mimeType: "application/vnd.recordare.musicxml"
+  extensions:
+    - mxl
+
+-
+  mimeType: "application/vnd.recordare.musicxml+xml"
+  extensions:
+    - musicxml
+
+-
+  mimeType: "application/vnd.renlearn.rlprint"
+  extensions: []
+
+-
+  mimeType: "application/vnd.rig.cryptonote"
+  extensions:
+    - cryptonote
+
+-
+  mimeType: "application/vnd.rim.cod"
+  extensions:
+    - cod
+
+-
+  mimeType: "application/vnd.rn-realmedia"
+  extensions:
+    - rm
+
+-
+  mimeType: "application/vnd.rn-realmedia-vbr"
+  extensions:
+    - rmvb
+
+-
+  mimeType: "application/vnd.route66.link66+xml"
+  extensions:
+    - link66
+
+-
+  mimeType: "application/vnd.rs-274x"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ruckus.download"
+  extensions: []
+
+-
+  mimeType: "application/vnd.s3sms"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sailingtracker.track"
+  extensions:
+    - st
+
+-
+  mimeType: "application/vnd.sbm.cid"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sbm.mid2"
+  extensions: []
+
+-
+  mimeType: "application/vnd.scribus"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sealed.3df"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sealed.csf"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sealed.doc"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sealed.eml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sealed.mht"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sealed.net"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sealed.ppt"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sealed.tiff"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sealed.xls"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sealedmedia.softseal.html"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sealedmedia.softseal.pdf"
+  extensions: []
+
+-
+  mimeType: "application/vnd.seemail"
+  extensions:
+    - see
+
+-
+  mimeType: "application/vnd.sema"
+  extensions:
+    - sema
+
+-
+  mimeType: "application/vnd.semd"
+  extensions:
+    - semd
+
+-
+  mimeType: "application/vnd.semf"
+  extensions:
+    - semf
+
+-
+  mimeType: "application/vnd.shana.informed.formdata"
+  extensions:
+    - ifm
+
+-
+  mimeType: "application/vnd.shana.informed.formtemplate"
+  extensions:
+    - itp
+
+-
+  mimeType: "application/vnd.shana.informed.interchange"
+  extensions:
+    - iif
+
+-
+  mimeType: "application/vnd.shana.informed.package"
+  extensions:
+    - ipk
+
+-
+  mimeType: "application/vnd.simtech-mindmapper"
+  extensions:
+    - twd
+    - twds
+
+-
+  mimeType: "application/vnd.siren+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.smaf"
+  extensions:
+    - mmf
+
+-
+  mimeType: "application/vnd.smart.notebook"
+  extensions: []
+
+-
+  mimeType: "application/vnd.smart.teacher"
+  extensions:
+    - teacher
+
+-
+  mimeType: "application/vnd.software602.filler.form+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.software602.filler.form-xml-zip"
+  extensions: []
+
+-
+  mimeType: "application/vnd.solent.sdkm+xml"
+  extensions:
+    - sdkm
+    - sdkd
+
+-
+  mimeType: "application/vnd.spotfire.dxp"
+  extensions:
+    - dxp
+
+-
+  mimeType: "application/vnd.spotfire.sfs"
+  extensions:
+    - sfs
+
+-
+  mimeType: "application/vnd.sss-cod"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sss-dtf"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sss-ntf"
+  extensions: []
+
+-
+  mimeType: "application/vnd.stardivision.calc"
+  extensions:
+    - sdc
+
+-
+  mimeType: "application/vnd.stardivision.draw"
+  extensions:
+    - sda
+
+-
+  mimeType: "application/vnd.stardivision.impress"
+  extensions:
+    - sdd
+
+-
+  mimeType: "application/vnd.stardivision.math"
+  extensions:
+    - smf
+
+-
+  mimeType: "application/vnd.stardivision.writer"
+  extensions:
+    - sdw
+    - vor
+
+-
+  mimeType: "application/vnd.stardivision.writer-global"
+  extensions:
+    - sgl
+
+-
+  mimeType: "application/vnd.stepmania.package"
+  extensions:
+    - smzip
+
+-
+  mimeType: "application/vnd.stepmania.stepchart"
+  extensions:
+    - sm
+
+-
+  mimeType: "application/vnd.street-stream"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sun.wadl+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.sun.xml.calc"
+  extensions:
+    - sxc
+
+-
+  mimeType: "application/vnd.sun.xml.calc.template"
+  extensions:
+    - stc
+
+-
+  mimeType: "application/vnd.sun.xml.draw"
+  extensions:
+    - sxd
+
+-
+  mimeType: "application/vnd.sun.xml.draw.template"
+  extensions:
+    - std
+
+-
+  mimeType: "application/vnd.sun.xml.impress"
+  extensions:
+    - sxi
+
+-
+  mimeType: "application/vnd.sun.xml.impress.template"
+  extensions:
+    - sti
+
+-
+  mimeType: "application/vnd.sun.xml.math"
+  extensions:
+    - sxm
+
+-
+  mimeType: "application/vnd.sun.xml.writer"
+  extensions:
+    - sxw
+
+-
+  mimeType: "application/vnd.sun.xml.writer.global"
+  extensions:
+    - sxg
+
+-
+  mimeType: "application/vnd.sun.xml.writer.template"
+  extensions:
+    - stw
+
+-
+  mimeType: "application/vnd.sus-calendar"
+  extensions:
+    - sus
+    - susp
+
+-
+  mimeType: "application/vnd.svd"
+  extensions:
+    - svd
+
+-
+  mimeType: "application/vnd.swiftview-ics"
+  extensions: []
+
+-
+  mimeType: "application/vnd.symbian.install"
+  extensions:
+    - sis
+    - sisx
+
+-
+  mimeType: "application/vnd.syncml+xml"
+  extensions:
+    - xsm
+
+-
+  mimeType: "application/vnd.syncml.dm+wbxml"
+  extensions:
+    - bdm
+
+-
+  mimeType: "application/vnd.syncml.dm+xml"
+  extensions:
+    - xdm
+
+-
+  mimeType: "application/vnd.syncml.dm.notification"
+  extensions: []
+
+-
+  mimeType: "application/vnd.syncml.dmddf+wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.syncml.dmddf+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.syncml.dmtnds+wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.syncml.dmtnds+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.syncml.ds.notification"
+  extensions: []
+
+-
+  mimeType: "application/vnd.tao.intent-module-archive"
+  extensions:
+    - tao
+
+-
+  mimeType: "application/vnd.tcpdump.pcap"
+  extensions:
+    - pcap
+    - cap
+    - dmp
+
+-
+  mimeType: "application/vnd.tmd.mediaflex.api+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.tml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.tmobile-livetv"
+  extensions:
+    - tmo
+
+-
+  mimeType: "application/vnd.trid.tpt"
+  extensions:
+    - tpt
+
+-
+  mimeType: "application/vnd.triscape.mxs"
+  extensions:
+    - mxs
+
+-
+  mimeType: "application/vnd.trueapp"
+  extensions:
+    - tra
+
+-
+  mimeType: "application/vnd.truedoc"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ubisoft.webplayer"
+  extensions: []
+
+-
+  mimeType: "application/vnd.ufdl"
+  extensions:
+    - ufd
+    - ufdl
+
+-
+  mimeType: "application/vnd.uiq.theme"
+  extensions:
+    - utz
+
+-
+  mimeType: "application/vnd.umajin"
+  extensions:
+    - umj
+
+-
+  mimeType: "application/vnd.unity"
+  extensions:
+    - unityweb
+
+-
+  mimeType: "application/vnd.uoml+xml"
+  extensions:
+    - uoml
+
+-
+  mimeType: "application/vnd.uplanet.alert"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.alert-wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.bearer-choice"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.bearer-choice-wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.cacheop"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.cacheop-wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.channel"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.channel-wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.list"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.list-wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.listcmd"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.listcmd-wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uplanet.signal"
+  extensions: []
+
+-
+  mimeType: "application/vnd.uri-map"
+  extensions: []
+
+-
+  mimeType: "application/vnd.valve.source.material"
+  extensions: []
+
+-
+  mimeType: "application/vnd.vcx"
+  extensions:
+    - vcx
+
+-
+  mimeType: "application/vnd.vd-study"
+  extensions: []
+
+-
+  mimeType: "application/vnd.vectorworks"
+  extensions: []
+
+-
+  mimeType: "application/vnd.vel+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.verimatrix.vcas"
+  extensions: []
+
+-
+  mimeType: "application/vnd.vidsoft.vidconference"
+  extensions: []
+
+-
+  mimeType: "application/vnd.visio"
+  extensions:
+    - vsd
+    - vst
+    - vss
+    - vsw
+
+-
+  mimeType: "application/vnd.visionary"
+  extensions:
+    - vis
+
+-
+  mimeType: "application/vnd.vividence.scriptfile"
+  extensions: []
+
+-
+  mimeType: "application/vnd.vsf"
+  extensions:
+    - vsf
+
+-
+  mimeType: "application/vnd.wap.sic"
+  extensions: []
+
+-
+  mimeType: "application/vnd.wap.slc"
+  extensions: []
+
+-
+  mimeType: "application/vnd.wap.wbxml"
+  extensions:
+    - wbxml
+
+-
+  mimeType: "application/vnd.wap.wmlc"
+  extensions:
+    - wmlc
+
+-
+  mimeType: "application/vnd.wap.wmlscriptc"
+  extensions:
+    - wmlsc
+
+-
+  mimeType: "application/vnd.webturbo"
+  extensions:
+    - wtb
+
+-
+  mimeType: "application/vnd.wfa.p2p"
+  extensions: []
+
+-
+  mimeType: "application/vnd.wfa.wsc"
+  extensions: []
+
+-
+  mimeType: "application/vnd.windows.devicepairing"
+  extensions: []
+
+-
+  mimeType: "application/vnd.wmc"
+  extensions: []
+
+-
+  mimeType: "application/vnd.wmf.bootstrap"
+  extensions: []
+
+-
+  mimeType: "application/vnd.wolfram.mathematica"
+  extensions: []
+
+-
+  mimeType: "application/vnd.wolfram.mathematica.package"
+  extensions: []
+
+-
+  mimeType: "application/vnd.wolfram.player"
+  extensions:
+    - nbp
+
+-
+  mimeType: "application/vnd.wordperfect"
+  extensions:
+    - wpd
+
+-
+  mimeType: "application/vnd.wqd"
+  extensions:
+    - wqd
+
+-
+  mimeType: "application/vnd.wrq-hp3000-labelled"
+  extensions: []
+
+-
+  mimeType: "application/vnd.wt.stf"
+  extensions:
+    - stf
+
+-
+  mimeType: "application/vnd.wv.csp+wbxml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.wv.csp+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.wv.ssp+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.xacml+json"
+  extensions: []
+
+-
+  mimeType: "application/vnd.xara"
+  extensions:
+    - xar
+
+-
+  mimeType: "application/vnd.xfdl"
+  extensions:
+    - xfdl
+
+-
+  mimeType: "application/vnd.xfdl.webform"
+  extensions: []
+
+-
+  mimeType: "application/vnd.xmi+xml"
+  extensions: []
+
+-
+  mimeType: "application/vnd.xmpie.cpkg"
+  extensions: []
+
+-
+  mimeType: "application/vnd.xmpie.dpkg"
+  extensions: []
+
+-
+  mimeType: "application/vnd.xmpie.plan"
+  extensions: []
+
+-
+  mimeType: "application/vnd.xmpie.ppkg"
+  extensions: []
+
+-
+  mimeType: "application/vnd.xmpie.xlim"
+  extensions: []
+
+-
+  mimeType: "application/vnd.yamaha.hv-dic"
+  extensions:
+    - hvd
+
+-
+  mimeType: "application/vnd.yamaha.hv-script"
+  extensions:
+    - hvs
+
+-
+  mimeType: "application/vnd.yamaha.hv-voice"
+  extensions:
+    - hvp
+
+-
+  mimeType: "application/vnd.yamaha.openscoreformat"
+  extensions:
+    - osf
+
+-
+  mimeType: "application/vnd.yamaha.openscoreformat.osfpvg+xml"
+  extensions:
+    - osfpvg
+
+-
+  mimeType: "application/vnd.yamaha.remote-setup"
+  extensions: []
+
+-
+  mimeType: "application/vnd.yamaha.smaf-audio"
+  extensions:
+    - saf
+
+-
+  mimeType: "application/vnd.yamaha.smaf-phrase"
+  extensions:
+    - spf
+
+-
+  mimeType: "application/vnd.yamaha.through-ngn"
+  extensions: []
+
+-
+  mimeType: "application/vnd.yamaha.tunnel-udpencap"
+  extensions: []
+
+-
+  mimeType: "application/vnd.yaoweme"
+  extensions: []
+
+-
+  mimeType: "application/vnd.yellowriver-custom-menu"
+  extensions:
+    - cmp
+
+-
+  mimeType: "application/vnd.zul"
+  extensions:
+    - zir
+    - zirz
+
+-
+  mimeType: "application/vnd.zzazz.deck+xml"
+  extensions:
+    - zaz
+
+-
+  mimeType: "application/voicexml+xml"
+  extensions:
+    - vxml
+
+-
+  mimeType: "application/vq-rtcpxr"
+  extensions: []
+
+-
+  mimeType: "application/watcherinfo+xml"
+  extensions: []
+
+-
+  mimeType: "application/whoispp-query"
+  extensions: []
+
+-
+  mimeType: "application/whoispp-response"
+  extensions: []
+
+-
+  mimeType: "application/widget"
+  extensions:
+    - wgt
+
+-
+  mimeType: "application/winhlp"
+  extensions:
+    - hlp
+
+-
+  mimeType: "application/wita"
+  extensions: []
+
+-
+  mimeType: "application/wordperfect5.1"
+  extensions: []
+
+-
+  mimeType: "application/wsdl+xml"
+  extensions:
+    - wsdl
+
+-
+  mimeType: "application/wspolicy+xml"
+  extensions:
+    - wspolicy
+
+-
+  mimeType: "application/x-7z-compressed"
+  extensions:
+    - 7z
+
+-
+  mimeType: "application/x-abiword"
+  extensions:
+    - abw
+
+-
+  mimeType: "application/x-ace-compressed"
+  extensions:
+    - ace
+
+-
+  mimeType: "application/x-amf"
+  extensions: []
+
+-
+  mimeType: "application/x-apple-diskimage"
+  extensions:
+    - dmg
+
+-
+  mimeType: "application/x-authorware-bin"
+  extensions:
+    - aab
+    - x32
+    - u32
+    - vox
+
+-
+  mimeType: "application/x-authorware-map"
+  extensions:
+    - aam
+
+-
+  mimeType: "application/x-authorware-seg"
+  extensions:
+    - aas
+
+-
+  mimeType: "application/x-bcpio"
+  extensions:
+    - bcpio
+
+-
+  mimeType: "application/x-bittorrent"
+  extensions:
+    - torrent
+
+-
+  mimeType: "application/x-blorb"
+  extensions:
+    - blb
+    - blorb
+
+-
+  mimeType: "application/x-bzip"
+  extensions:
+    - bz
+
+-
+  mimeType: "application/x-bzip2"
+  extensions:
+    - bz2
+    - boz
+
+-
+  mimeType: "application/x-cbr"
+  extensions:
+    - cbr
+    - cba
+    - cbt
+    - cbz
+    - cb7
+
+-
+  mimeType: "application/x-cdlink"
+  extensions:
+    - vcd
+
+-
+  mimeType: "application/x-cfs-compressed"
+  extensions:
+    - cfs
+
+-
+  mimeType: "application/x-chat"
+  extensions:
+    - chat
+
+-
+  mimeType: "application/x-chess-pgn"
+  extensions:
+    - pgn
+
+-
+  mimeType: "application/x-compress"
+  extensions: []
+
+-
+  mimeType: "application/x-conference"
+  extensions:
+    - nsc
+
+-
+  mimeType: "application/x-cpio"
+  extensions:
+    - cpio
+
+-
+  mimeType: "application/x-csh"
+  extensions:
+    - csh
+
+-
+  mimeType: "application/x-debian-package"
+  extensions:
+    - deb
+    - udeb
+
+-
+  mimeType: "application/x-dgc-compressed"
+  extensions:
+    - dgc
+
+-
+  mimeType: "application/x-director"
+  extensions:
+    - bin
+    - dms
+    - lrf
+    - mar
+    - so
+    - dist
+    - distz
+    - pkg
+    - bpk
+    - dump
+    - elc
+    - deploy
+
+-
+  mimeType: "application/x-doom"
+  extensions:
+    - wad
+
+-
+  mimeType: "application/x-dtbncx+xml"
+  extensions:
+    - ncx
+
+-
+  mimeType: "application/x-dtbook+xml"
+  extensions:
+    - dtb
+
+-
+  mimeType: "application/x-dtbresource+xml"
+  extensions:
+    - res
+
+-
+  mimeType: "application/x-dvi"
+  extensions:
+    - dvi
+
+-
+  mimeType: "application/x-envoy"
+  extensions:
+    - evy
+
+-
+  mimeType: "application/x-eva"
+  extensions:
+    - eva
+
+-
+  mimeType: "application/x-font-bdf"
+  extensions:
+    - bdf
+
+-
+  mimeType: "application/x-font-dos"
+  extensions: []
+
+-
+  mimeType: "application/x-font-framemaker"
+  extensions: []
+
+-
+  mimeType: "application/x-font-ghostscript"
+  extensions:
+    - gsf
+
+-
+  mimeType: "application/x-font-libgrx"
+  extensions: []
+
+-
+  mimeType: "application/x-font-linux-psf"
+  extensions:
+    - psf
+
+-
+  mimeType: "application/x-font-otf"
+  extensions:
+    - otf
+
+-
+  mimeType: "application/x-font-pcf"
+  extensions:
+    - pcf
+
+-
+  mimeType: "application/x-font-snf"
+  extensions:
+    - snf
+
+-
+  mimeType: "application/x-font-speedo"
+  extensions: []
+
+-
+  mimeType: "application/x-font-sunos-news"
+  extensions: []
+
+-
+  mimeType: "application/x-font-ttf"
+  extensions:
+    - ttf
+    - ttc
+
+-
+  mimeType: "application/x-font-type1"
+  extensions:
+    - pfa
+    - pfb
+    - pfm
+    - afm
+
+-
+  mimeType: "application/x-font-vfont"
+  extensions: []
+
+-
+  mimeType: "application/x-freearc"
+  extensions:
+    - arc
+
+-
+  mimeType: "application/x-futuresplash"
+  extensions:
+    - spl
+
+-
+  mimeType: "application/x-gca-compressed"
+  extensions:
+    - gca
+
+-
+  mimeType: "application/x-glulx"
+  extensions:
+    - ulx
+
+-
+  mimeType: "application/x-gnumeric"
+  extensions:
+    - gnumeric
+
+-
+  mimeType: "application/x-gramps-xml"
+  extensions:
+    - gramps
+
+-
+  mimeType: "application/x-gtar"
+  extensions:
+    - gtar
+
+-
+  mimeType: "application/x-gzip"
+  extensions: []
+
+-
+  mimeType: "application/x-hdf"
+  extensions:
+    - hdf
+
+-
+  mimeType: "application/x-install-instructions"
+  extensions:
+    - install
+
+-
+  mimeType: "application/x-iso9660-image"
+  extensions:
+    - iso
+
+-
+  mimeType: "application/x-java-jnlp-file"
+  extensions:
+    - jnlp
+
+-
+  mimeType: "application/x-latex"
+  extensions:
+    - latex
+
+-
+  mimeType: "application/x-lzh-compressed"
+  extensions:
+    - lzh
+    - lha
+
+-
+  mimeType: "application/x-mie"
+  extensions:
+    - mie
+
+-
+  mimeType: "application/x-mobipocket-ebook"
+  extensions:
+    - prc
+    - mobi
+
+-
+  mimeType: "application/x-ms-application"
+  extensions:
+    - application
+
+-
+  mimeType: "application/x-ms-shortcut"
+  extensions:
+    - lnk
+
+-
+  mimeType: "application/x-ms-wmd"
+  extensions:
+    - wmd
+
+-
+  mimeType: "application/x-ms-wmz"
+  extensions:
+    - wmz
+
+-
+  mimeType: "application/x-ms-xbap"
+  extensions:
+    - xbap
+
+-
+  mimeType: "application/x-msaccess"
+  extensions:
+    - mdb
+
+-
+  mimeType: "application/x-msbinder"
+  extensions:
+    - obd
+
+-
+  mimeType: "application/x-mscardfile"
+  extensions:
+    - crd
+
+-
+  mimeType: "application/x-msclip"
+  extensions:
+    - clp
+
+-
+  mimeType: "application/x-msdownload"
+  extensions:
+    - exe
+    - dll
+    - com
+    - bat
+    - msi
+
+-
+  mimeType: "application/x-msmediaview"
+  extensions:
+    - mvb
+    - m13
+    - m14
+
+-
+  mimeType: "application/x-msmetafile"
+  extensions:
+    - wmf
+    - wmz
+    - emf
+    - emz
+
+-
+  mimeType: "application/x-msmoney"
+  extensions:
+    - mny
+
+-
+  mimeType: "application/x-mspublisher"
+  extensions:
+    - pub
+
+-
+  mimeType: "application/x-msschedule"
+  extensions:
+    - scd
+
+-
+  mimeType: "application/x-msterminal"
+  extensions:
+    - trm
+
+-
+  mimeType: "application/x-mswrite"
+  extensions:
+    - wri
+
+-
+  mimeType: "application/x-netcdf"
+  extensions:
+    - nc
+    - cdf
+
+-
+  mimeType: "application/x-nzb"
+  extensions:
+    - nzb
+
+-
+  mimeType: "application/x-pkcs12"
+  extensions:
+    - p12
+    - pfx
+
+-
+  mimeType: "application/x-pkcs7-certificates"
+  extensions:
+    - p7b
+    - spc
+
+-
+  mimeType: "application/x-pkcs7-certreqresp"
+  extensions:
+    - p7r
+
+-
+  mimeType: "application/x-rar-compressed"
+  extensions:
+    - rar
+
+-
+  mimeType: "application/x-research-info-systems"
+  extensions:
+    - ris
+
+-
+  mimeType: "application/x-sh"
+  extensions:
+    - sh
+
+-
+  mimeType: "application/x-shar"
+  extensions:
+    - shar
+
+-
+  mimeType: "application/x-shockwave-flash"
+  extensions:
+    - swf
+
+-
+  mimeType: "application/x-silverlight-app"
+  extensions:
+    - xap
+
+-
+  mimeType: "application/x-sql"
+  extensions:
+    - sql
+
+-
+  mimeType: "application/x-stuffit"
+  extensions:
+    - sit
+
+-
+  mimeType: "application/x-stuffitx"
+  extensions:
+    - sitx
+
+-
+  mimeType: "application/x-subrip"
+  extensions:
+    - srt
+
+-
+  mimeType: "application/x-sv4cpio"
+  extensions:
+    - sv4cpio
+
+-
+  mimeType: "application/x-sv4crc"
+  extensions:
+    - sv4crc
+
+-
+  mimeType: "application/x-t3vm-image"
+  extensions:
+    - t3
+
+-
+  mimeType: "application/x-tads"
+  extensions:
+    - gam
+
+-
+  mimeType: "application/x-tar"
+  extensions:
+    - tar
+
+-
+  mimeType: "application/x-tcl"
+  extensions:
+    - tcl
+
+-
+  mimeType: "application/x-tex"
+  extensions:
+    - tex
+
+-
+  mimeType: "application/x-tex-tfm"
+  extensions:
+    - tfm
+
+-
+  mimeType: "application/x-texinfo"
+  extensions:
+    - texinfo
+    - texi
+
+-
+  mimeType: "application/x-tgif"
+  extensions:
+    - obj
+
+-
+  mimeType: "application/x-ustar"
+  extensions:
+    - ustar
+
+-
+  mimeType: "application/x-wais-source"
+  extensions:
+    - src
+
+-
+  mimeType: "application/x-www-form-urlencoded"
+  extensions: []
+
+-
+  mimeType: "application/x-x509-ca-cert"
+  extensions:
+    - der
+    - crt
+
+-
+  mimeType: "application/x-xfig"
+  extensions:
+    - fig
+
+-
+  mimeType: "application/x-xliff+xml"
+  extensions:
+    - xlf
+
+-
+  mimeType: "application/x-xpinstall"
+  extensions:
+    - xpi
+
+-
+  mimeType: "application/x-xz"
+  extensions:
+    - xz
+
+-
+  mimeType: "application/x-zmachine"
+  extensions:
+    - z1
+    - z2
+    - z3
+    - z4
+    - z5
+    - z6
+    - z7
+    - z8
+
+-
+  mimeType: "application/x400-bp"
+  extensions: []
+
+-
+  mimeType: "application/xacml+xml"
+  extensions: []
+
+-
+  mimeType: "application/xaml+xml"
+  extensions:
+    - xaml
+
+-
+  mimeType: "application/xcap-att+xml"
+  extensions: []
+
+-
+  mimeType: "application/xcap-caps+xml"
+  extensions: []
+
+-
+  mimeType: "application/xcap-diff+xml"
+  extensions:
+    - xdf
+
+-
+  mimeType: "application/xcap-el+xml"
+  extensions: []
+
+-
+  mimeType: "application/xcap-error+xml"
+  extensions: []
+
+-
+  mimeType: "application/xcap-ns+xml"
+  extensions: []
+
+-
+  mimeType: "application/xcon-conference-info+xml"
+  extensions: []
+
+-
+  mimeType: "application/xcon-conference-info-diff+xml"
+  extensions: []
+
+-
+  mimeType: "application/xenc+xml"
+  extensions:
+    - xenc
+
+-
+  mimeType: "application/xhtml+xml"
+  extensions:
+    - xhtml
+    - xht
+
+-
+  mimeType: "application/xhtml-voice+xml"
+  extensions: []
+
+-
+  mimeType: "application/xml"
+  extensions:
+    - xml
+    - xsl
+
+-
+  mimeType: "application/xml-dtd"
+  extensions:
+    - dtd
+
+-
+  mimeType: "application/xml-external-parsed-entity"
+  extensions: []
+
+-
+  mimeType: "application/xml-patch+xml"
+  extensions: []
+
+-
+  mimeType: "application/xmpp+xml"
+  extensions: []
+
+-
+  mimeType: "application/xop+xml"
+  extensions:
+    - xop
+
+-
+  mimeType: "application/xproc+xml"
+  extensions:
+    - xpl
+
+-
+  mimeType: "application/xslt+xml"
+  extensions:
+    - xslt
+
+-
+  mimeType: "application/xspf+xml"
+  extensions:
+    - xspf
+
+-
+  mimeType: "application/xv+xml"
+  extensions:
+    - mxml
+    - xhvml
+    - xvml
+    - xvm
+
+-
+  mimeType: "application/yang"
+  extensions:
+    - yang
+
+-
+  mimeType: "application/yin+xml"
+  extensions:
+    - yin
+
+-
+  mimeType: "application/zip"
+  extensions:
+    - zip
+
+-
+  mimeType: "application/zlib"
+  extensions: []
+
+-
+  mimeType: "audio/1d-interleaved-parityfec"
+  extensions: []
+
+-
+  mimeType: "audio/32kadpcm"
+  extensions: []
+
+-
+  mimeType: "audio/3gpp"
+  extensions: []
+
+-
+  mimeType: "audio/3gpp2"
+  extensions: []
+
+-
+  mimeType: "audio/ac3"
+  extensions: []
+
+-
+  mimeType: "audio/adpcm"
+  extensions:
+    - adp
+
+-
+  mimeType: "audio/amr"
+  extensions: []
+
+-
+  mimeType: "audio/amr-wb"
+  extensions: []
+
+-
+  mimeType: "audio/amr-wb+"
+  extensions: []
+
+-
+  mimeType: "audio/aptx"
+  extensions: []
+
+-
+  mimeType: "audio/asc"
+  extensions: []
+
+-
+  mimeType: "audio/atrac-advanced-lossless"
+  extensions: []
+
+-
+  mimeType: "audio/atrac-x"
+  extensions: []
+
+-
+  mimeType: "audio/atrac3"
+  extensions: []
+
+-
+  mimeType: "audio/basic"
+  extensions:
+    - au
+    - snd
+
+-
+  mimeType: "audio/bv16"
+  extensions: []
+
+-
+  mimeType: "audio/bv32"
+  extensions: []
+
+-
+  mimeType: "audio/clearmode"
+  extensions: []
+
+-
+  mimeType: "audio/cn"
+  extensions: []
+
+-
+  mimeType: "audio/dat12"
+  extensions: []
+
+-
+  mimeType: "audio/dls"
+  extensions: []
+
+-
+  mimeType: "audio/dsr-es201108"
+  extensions: []
+
+-
+  mimeType: "audio/dsr-es202050"
+  extensions: []
+
+-
+  mimeType: "audio/dsr-es202211"
+  extensions: []
+
+-
+  mimeType: "audio/dsr-es202212"
+  extensions: []
+
+-
+  mimeType: "audio/dv"
+  extensions: []
+
+-
+  mimeType: "audio/dvi4"
+  extensions: []
+
+-
+  mimeType: "audio/eac3"
+  extensions: []
+
+-
+  mimeType: "audio/encaprtp"
+  extensions: []
+
+-
+  mimeType: "audio/evrc"
+  extensions: []
+
+-
+  mimeType: "audio/evrc-qcp"
+  extensions: []
+
+-
+  mimeType: "audio/evrc0"
+  extensions: []
+
+-
+  mimeType: "audio/evrc1"
+  extensions: []
+
+-
+  mimeType: "audio/evrcb"
+  extensions: []
+
+-
+  mimeType: "audio/evrcb0"
+  extensions: []
+
+-
+  mimeType: "audio/evrcb1"
+  extensions: []
+
+-
+  mimeType: "audio/evrcnw"
+  extensions: []
+
+-
+  mimeType: "audio/evrcnw0"
+  extensions: []
+
+-
+  mimeType: "audio/evrcnw1"
+  extensions: []
+
+-
+  mimeType: "audio/evrcwb"
+  extensions: []
+
+-
+  mimeType: "audio/evrcwb0"
+  extensions: []
+
+-
+  mimeType: "audio/evrcwb1"
+  extensions: []
+
+-
+  mimeType: "audio/evs"
+  extensions: []
+
+-
+  mimeType: "audio/example"
+  extensions: []
+
+-
+  mimeType: "audio/fwdred"
+  extensions: []
+
+-
+  mimeType: "audio/g711-0"
+  extensions: []
+
+-
+  mimeType: "audio/g719"
+  extensions: []
+
+-
+  mimeType: "audio/g722"
+  extensions: []
+
+-
+  mimeType: "audio/g7221"
+  extensions: []
+
+-
+  mimeType: "audio/g723"
+  extensions: []
+
+-
+  mimeType: "audio/g726-16"
+  extensions: []
+
+-
+  mimeType: "audio/g726-24"
+  extensions: []
+
+-
+  mimeType: "audio/g726-32"
+  extensions: []
+
+-
+  mimeType: "audio/g726-40"
+  extensions: []
+
+-
+  mimeType: "audio/g728"
+  extensions: []
+
+-
+  mimeType: "audio/g729"
+  extensions: []
+
+-
+  mimeType: "audio/g7291"
+  extensions: []
+
+-
+  mimeType: "audio/g729d"
+  extensions: []
+
+-
+  mimeType: "audio/g729e"
+  extensions: []
+
+-
+  mimeType: "audio/gsm"
+  extensions: []
+
+-
+  mimeType: "audio/gsm-efr"
+  extensions: []
+
+-
+  mimeType: "audio/gsm-hr-08"
+  extensions: []
+
+-
+  mimeType: "audio/ilbc"
+  extensions: []
+
+-
+  mimeType: "audio/ip-mr_v2.5"
+  extensions: []
+
+-
+  mimeType: "audio/isac"
+  extensions: []
+
+-
+  mimeType: "audio/l16"
+  extensions: []
+
+-
+  mimeType: "audio/l20"
+  extensions: []
+
+-
+  mimeType: "audio/l24"
+  extensions: []
+
+-
+  mimeType: "audio/l8"
+  extensions: []
+
+-
+  mimeType: "audio/lpc"
+  extensions: []
+
+-
+  mimeType: "audio/midi"
+  extensions:
+    - mid
+    - midi
+    - kar
+    - rmi
+
+-
+  mimeType: "audio/mobile-xmf"
+  extensions: []
+
+-
+  mimeType: "audio/mp4"
+  extensions:
+    - m4a
+    - mp4a
+
+-
+  mimeType: "audio/mp4a-latm"
+  extensions: []
+
+-
+  mimeType: "audio/mpa"
+  extensions: []
+
+-
+  mimeType: "audio/mpa-robust"
+  extensions: []
+
+-
+  mimeType: "audio/mpeg"
+  extensions:
+    - mpga
+    - mp2
+    - mp2a
+    - mp3
+    - m2a
+    - m3a
+
+-
+  mimeType: "audio/mpeg4-generic"
+  extensions: []
+
+-
+  mimeType: "audio/musepack"
+  extensions: []
+
+-
+  mimeType: "audio/ogg"
+  extensions:
+    - oga
+    - ogg
+    - spx
+
+-
+  mimeType: "audio/opus"
+  extensions: []
+
+-
+  mimeType: "audio/parityfec"
+  extensions: []
+
+-
+  mimeType: "audio/pcma"
+  extensions: []
+
+-
+  mimeType: "audio/pcma-wb"
+  extensions: []
+
+-
+  mimeType: "audio/pcmu"
+  extensions: []
+
+-
+  mimeType: "audio/pcmu-wb"
+  extensions: []
+
+-
+  mimeType: "audio/prs.sid"
+  extensions: []
+
+-
+  mimeType: "audio/qcelp"
+  extensions: []
+
+-
+  mimeType: "audio/raptorfec"
+  extensions: []
+
+-
+  mimeType: "audio/red"
+  extensions: []
+
+-
+  mimeType: "audio/rtp-enc-aescm128"
+  extensions: []
+
+-
+  mimeType: "audio/rtp-midi"
+  extensions: []
+
+-
+  mimeType: "audio/rtploopback"
+  extensions: []
+
+-
+  mimeType: "audio/rtx"
+  extensions: []
+
+-
+  mimeType: "audio/s3m"
+  extensions:
+    - s3m
+
+-
+  mimeType: "audio/silk"
+  extensions:
+    - sil
+
+-
+  mimeType: "audio/smv"
+  extensions: []
+
+-
+  mimeType: "audio/smv-qcp"
+  extensions: []
+
+-
+  mimeType: "audio/smv0"
+  extensions: []
+
+-
+  mimeType: "audio/sp-midi"
+  extensions: []
+
+-
+  mimeType: "audio/speex"
+  extensions: []
+
+-
+  mimeType: "audio/t140c"
+  extensions: []
+
+-
+  mimeType: "audio/t38"
+  extensions: []
+
+-
+  mimeType: "audio/telephone-event"
+  extensions: []
+
+-
+  mimeType: "audio/tone"
+  extensions: []
+
+-
+  mimeType: "audio/uemclip"
+  extensions: []
+
+-
+  mimeType: "audio/ulpfec"
+  extensions: []
+
+-
+  mimeType: "audio/vdvi"
+  extensions: []
+
+-
+  mimeType: "audio/vmr-wb"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.3gpp.iufp"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.4sb"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.audiokoz"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.celp"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.cisco.nse"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.cmles.radio-events"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.cns.anp1"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.cns.inf1"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.dece.audio"
+  extensions:
+    - uva
+    - uvva
+
+-
+  mimeType: "audio/vnd.digital-winds"
+  extensions:
+    - eol
+
+-
+  mimeType: "audio/vnd.dlna.adts"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.dolby.heaac.1"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.dolby.heaac.2"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.dolby.mlp"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.dolby.mps"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.dolby.pl2"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.dolby.pl2x"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.dolby.pl2z"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.dolby.pulse.1"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.dra"
+  extensions:
+    - dra
+
+-
+  mimeType: "audio/vnd.dts"
+  extensions:
+    - dts
+
+-
+  mimeType: "audio/vnd.dts.hd"
+  extensions:
+    - dtshd
+
+-
+  mimeType: "audio/vnd.dvb.file"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.everad.plj"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.hns.audio"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.lucent.voice"
+  extensions:
+    - lvp
+
+-
+  mimeType: "audio/vnd.ms-playready.media.pya"
+  extensions:
+    - pya
+
+-
+  mimeType: "audio/vnd.nokia.mobile-xmf"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.nortel.vbk"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.nuera.ecelp4800"
+  extensions:
+    - ecelp4800
+
+-
+  mimeType: "audio/vnd.nuera.ecelp7470"
+  extensions:
+    - ecelp7470
+
+-
+  mimeType: "audio/vnd.nuera.ecelp9600"
+  extensions:
+    - ecelp9600
+
+-
+  mimeType: "audio/vnd.octel.sbc"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.qcelp"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.rhetorex.32kadpcm"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.rip"
+  extensions:
+    - rip
+
+-
+  mimeType: "audio/vnd.sealedmedia.softseal.mpeg"
+  extensions: []
+
+-
+  mimeType: "audio/vnd.vmx.cvsd"
+  extensions: []
+
+-
+  mimeType: "audio/vorbis"
+  extensions: []
+
+-
+  mimeType: "audio/vorbis-config"
+  extensions: []
+
+-
+  mimeType: "audio/webm"
+  extensions:
+    - weba
+
+-
+  mimeType: "audio/x-aac"
+  extensions:
+    - aac
+
+-
+  mimeType: "audio/x-aiff"
+  extensions:
+    - aif
+    - aiff
+    - aifc
+
+-
+  mimeType: "audio/x-caf"
+  extensions:
+    - caf
+
+-
+  mimeType: "audio/x-flac"
+  extensions:
+    - flac
+
+-
+  mimeType: "audio/x-matroska"
+  extensions:
+    - mka
+
+-
+  mimeType: "audio/x-mpegurl"
+  extensions:
+    - m3u
+
+-
+  mimeType: "audio/x-ms-wax"
+  extensions:
+    - wax
+
+-
+  mimeType: "audio/x-ms-wma"
+  extensions:
+    - wma
+
+-
+  mimeType: "audio/x-pn-realaudio"
+  extensions:
+    - ram
+    - ra
+
+-
+  mimeType: "audio/x-pn-realaudio-plugin"
+  extensions:
+    - rmp
+
+-
+  mimeType: "audio/x-tta"
+  extensions: []
+
+-
+  mimeType: "audio/x-wav"
+  extensions:
+    - wav
+
+-
+  mimeType: "audio/xm"
+  extensions:
+    - xm
+
+-
+  mimeType: "chemical/x-cdx"
+  extensions:
+    - cdx
+
+-
+  mimeType: "chemical/x-cif"
+  extensions:
+    - cif
+
+-
+  mimeType: "chemical/x-cmdf"
+  extensions:
+    - cmdf
+
+-
+  mimeType: "chemical/x-cml"
+  extensions:
+    - cml
+
+-
+  mimeType: "chemical/x-csml"
+  extensions:
+    - csml
+
+-
+  mimeType: "chemical/x-pdb"
+  extensions: []
+
+-
+  mimeType: "chemical/x-xyz"
+  extensions:
+    - xyz
+
+-
+  mimeType: "image/bmp"
+  extensions:
+    - bmp
+
+-
+  mimeType: "image/cgm"
+  extensions:
+    - cgm
+
+-
+  mimeType: "image/dicom-rle"
+  extensions: []
+
+-
+  mimeType: "image/emf"
+  extensions: []
+
+-
+  mimeType: "image/example"
+  extensions: []
+
+-
+  mimeType: "image/fits"
+  extensions: []
+
+-
+  mimeType: "image/g3fax"
+  extensions:
+    - g3
+
+-
+  mimeType: "image/gif"
+  extensions:
+    - gif
+
+-
+  mimeType: "image/ief"
+  extensions:
+    - ief
+
+-
+  mimeType: "image/jls"
+  extensions: []
+
+-
+  mimeType: "image/jp2"
+  extensions: []
+
+-
+  mimeType: "image/jpeg"
+  extensions:
+    - jpeg
+    - jpg
+    - jpe
+
+-
+  mimeType: "image/jpm"
+  extensions: []
+
+-
+  mimeType: "image/jpx"
+  extensions: []
+
+-
+  mimeType: "image/ktx"
+  extensions:
+    - ktx
+
+-
+  mimeType: "image/naplps"
+  extensions: []
+
+-
+  mimeType: "image/png"
+  extensions:
+    - png
+
+-
+  mimeType: "image/prs.btif"
+  extensions:
+    - btif
+
+-
+  mimeType: "image/prs.pti"
+  extensions: []
+
+-
+  mimeType: "image/pwg-raster"
+  extensions: []
+
+-
+  mimeType: "image/sgi"
+  extensions:
+    - sgi
+
+-
+  mimeType: "image/svg+xml"
+  extensions:
+    - svg
+    - svgz
+
+-
+  mimeType: "image/t38"
+  extensions: []
+
+-
+  mimeType: "image/tiff"
+  extensions:
+    - tiff
+    - tif
+
+-
+  mimeType: "image/tiff-fx"
+  extensions: []
+
+-
+  mimeType: "image/vnd.adobe.photoshop"
+  extensions:
+    - psd
+
+-
+  mimeType: "image/vnd.airzip.accelerator.azv"
+  extensions: []
+
+-
+  mimeType: "image/vnd.cns.inf2"
+  extensions: []
+
+-
+  mimeType: "image/vnd.dece.graphic"
+  extensions:
+    - uvi
+    - uvvi
+    - uvg
+    - uvvg
+
+-
+  mimeType: "image/vnd.djvu"
+  extensions:
+    - djvu
+    - djv
+
+-
+  mimeType: "image/vnd.dvb.subtitle"
+  extensions:
+    - sub
+
+-
+  mimeType: "image/vnd.dwg"
+  extensions:
+    - dwg
+
+-
+  mimeType: "image/vnd.dxf"
+  extensions:
+    - dxf
+
+-
+  mimeType: "image/vnd.fastbidsheet"
+  extensions:
+    - fbs
+
+-
+  mimeType: "image/vnd.fpx"
+  extensions:
+    - fpx
+
+-
+  mimeType: "image/vnd.fst"
+  extensions:
+    - fst
+
+-
+  mimeType: "image/vnd.fujixerox.edmics-mmr"
+  extensions:
+    - mmr
+
+-
+  mimeType: "image/vnd.fujixerox.edmics-rlc"
+  extensions:
+    - rlc
+
+-
+  mimeType: "image/vnd.globalgraphics.pgb"
+  extensions: []
+
+-
+  mimeType: "image/vnd.microsoft.icon"
+  extensions: []
+
+-
+  mimeType: "image/vnd.mix"
+  extensions: []
+
+-
+  mimeType: "image/vnd.mozilla.apng"
+  extensions: []
+
+-
+  mimeType: "image/vnd.ms-modi"
+  extensions:
+    - mdi
+
+-
+  mimeType: "image/vnd.ms-photo"
+  extensions:
+    - wdp
+
+-
+  mimeType: "image/vnd.net-fpx"
+  extensions:
+    - npx
+
+-
+  mimeType: "image/vnd.radiance"
+  extensions: []
+
+-
+  mimeType: "image/vnd.sealed.png"
+  extensions: []
+
+-
+  mimeType: "image/vnd.sealedmedia.softseal.gif"
+  extensions: []
+
+-
+  mimeType: "image/vnd.sealedmedia.softseal.jpg"
+  extensions: []
+
+-
+  mimeType: "image/vnd.svf"
+  extensions: []
+
+-
+  mimeType: "image/vnd.tencent.tap"
+  extensions: []
+
+-
+  mimeType: "image/vnd.valve.source.texture"
+  extensions: []
+
+-
+  mimeType: "image/vnd.wap.wbmp"
+  extensions:
+    - wbmp
+
+-
+  mimeType: "image/vnd.xiff"
+  extensions:
+    - xif
+
+-
+  mimeType: "image/vnd.zbrush.pcx"
+  extensions: []
+
+-
+  mimeType: "image/webp"
+  extensions:
+    - webp
+
+-
+  mimeType: "image/wmf"
+  extensions: []
+
+-
+  mimeType: "image/x-3ds"
+  extensions:
+    - 3ds
+
+-
+  mimeType: "image/x-cmu-raster"
+  extensions:
+    - ras
+
+-
+  mimeType: "image/x-cmx"
+  extensions:
+    - cmx
+
+-
+  mimeType: "image/x-freehand"
+  extensions:
+    - fh
+    - fhc
+    - fh4
+    - fh5
+    - fh7
+
+-
+  mimeType: "image/x-icon"
+  extensions:
+    - ico
+
+-
+  mimeType: "image/x-mrsid-image"
+  extensions:
+    - sid
+
+-
+  mimeType: "image/x-pcx"
+  extensions:
+    - pcx
+
+-
+  mimeType: "image/x-pict"
+  extensions:
+    - pic
+    - pct
+
+-
+  mimeType: "image/x-portable-anymap"
+  extensions:
+    - pnm
+
+-
+  mimeType: "image/x-portable-bitmap"
+  extensions:
+    - pbm
+
+-
+  mimeType: "image/x-portable-graymap"
+  extensions:
+    - pgm
+
+-
+  mimeType: "image/x-portable-pixmap"
+  extensions:
+    - ppm
+
+-
+  mimeType: "image/x-rgb"
+  extensions:
+    - rgb
+
+-
+  mimeType: "image/x-tga"
+  extensions:
+    - tga
+
+-
+  mimeType: "image/x-xbitmap"
+  extensions:
+    - xbm
+
+-
+  mimeType: "image/x-xpixmap"
+  extensions:
+    - xpm
+
+-
+  mimeType: "image/x-xwindowdump"
+  extensions:
+    - xwd
+
+-
+  mimeType: "message/cpim"
+  extensions: []
+
+-
+  mimeType: "message/delivery-status"
+  extensions: []
+
+-
+  mimeType: "message/disposition-notification"
+  extensions: []
+
+-
+  mimeType: "message/example"
+  extensions: []
+
+-
+  mimeType: "message/external-body"
+  extensions: []
+
+-
+  mimeType: "message/feedback-report"
+  extensions: []
+
+-
+  mimeType: "message/global"
+  extensions: []
+
+-
+  mimeType: "message/global-delivery-status"
+  extensions: []
+
+-
+  mimeType: "message/global-disposition-notification"
+  extensions: []
+
+-
+  mimeType: "message/global-headers"
+  extensions: []
+
+-
+  mimeType: "message/http"
+  extensions: []
+
+-
+  mimeType: "message/imdn+xml"
+  extensions: []
+
+-
+  mimeType: "message/news"
+  extensions: []
+
+-
+  mimeType: "message/partial"
+  extensions: []
+
+-
+  mimeType: "message/rfc822"
+  extensions:
+    - eml
+    - mime
+
+-
+  mimeType: "message/s-http"
+  extensions: []
+
+-
+  mimeType: "message/sip"
+  extensions: []
+
+-
+  mimeType: "message/sipfrag"
+  extensions: []
+
+-
+  mimeType: "message/tracking-status"
+  extensions: []
+
+-
+  mimeType: "message/vnd.si.simp"
+  extensions: []
+
+-
+  mimeType: "message/vnd.wfa.wsc"
+  extensions: []
+
+-
+  mimeType: "model/example"
+  extensions: []
+
+-
+  mimeType: "model/gltf+json"
+  extensions: []
+
+-
+  mimeType: "model/iges"
+  extensions:
+    - igs
+    - iges
+
+-
+  mimeType: "model/mesh"
+  extensions:
+    - msh
+    - mesh
+    - silo
+
+-
+  mimeType: "model/vnd.collada+xml"
+  extensions:
+    - dae
+
+-
+  mimeType: "model/vnd.dwf"
+  extensions:
+    - dwf
+
+-
+  mimeType: "model/vnd.flatland.3dml"
+  extensions: []
+
+-
+  mimeType: "model/vnd.gdl"
+  extensions:
+    - gdl
+
+-
+  mimeType: "model/vnd.gs-gdl"
+  extensions: []
+
+-
+  mimeType: "model/vnd.gs.gdl"
+  extensions: []
+
+-
+  mimeType: "model/vnd.gtw"
+  extensions:
+    - gtw
+
+-
+  mimeType: "model/vnd.moml+xml"
+  extensions: []
+
+-
+  mimeType: "model/vnd.mts"
+  extensions:
+    - mts
+
+-
+  mimeType: "model/vnd.opengex"
+  extensions: []
+
+-
+  mimeType: "model/vnd.parasolid.transmit.binary"
+  extensions: []
+
+-
+  mimeType: "model/vnd.parasolid.transmit.text"
+  extensions: []
+
+-
+  mimeType: "model/vnd.rosette.annotated-data-model"
+  extensions: []
+
+-
+  mimeType: "model/vnd.valve.source.compiled-map"
+  extensions: []
+
+-
+  mimeType: "model/vnd.vtu"
+  extensions:
+    - vtu
+
+-
+  mimeType: "model/vrml"
+  extensions:
+    - wrl
+    - vrml
+
+-
+  mimeType: "model/x3d+binary"
+  extensions:
+    - x3db
+    - x3dbz
+
+-
+  mimeType: "model/x3d+fastinfoset"
+  extensions: []
+
+-
+  mimeType: "model/x3d+vrml"
+  extensions:
+    - x3dv
+    - x3dvz
+
+-
+  mimeType: "model/x3d+xml"
+  extensions:
+    - x3d
+    - x3dz
+
+-
+  mimeType: "model/x3d-vrml"
+  extensions: []
+
+-
+  mimeType: "multipart/alternative"
+  extensions: []
+
+-
+  mimeType: "multipart/appledouble"
+  extensions: []
+
+-
+  mimeType: "multipart/byteranges"
+  extensions: []
+
+-
+  mimeType: "multipart/digest"
+  extensions: []
+
+-
+  mimeType: "multipart/encrypted"
+  extensions: []
+
+-
+  mimeType: "multipart/example"
+  extensions: []
+
+-
+  mimeType: "multipart/form-data"
+  extensions: []
+
+-
+  mimeType: "multipart/header-set"
+  extensions: []
+
+-
+  mimeType: "multipart/mixed"
+  extensions: []
+
+-
+  mimeType: "multipart/parallel"
+  extensions: []
+
+-
+  mimeType: "multipart/related"
+  extensions: []
+
+-
+  mimeType: "multipart/report"
+  extensions: []
+
+-
+  mimeType: "multipart/signed"
+  extensions: []
+
+-
+  mimeType: "multipart/voice-message"
+  extensions: []
+
+-
+  mimeType: "multipart/x-mixed-replace"
+  extensions: []
+
+-
+  mimeType: "text/1d-interleaved-parityfec"
+  extensions: []
+
+-
+  mimeType: "text/cache-manifest"
+  extensions:
+    - appcache
+
+-
+  mimeType: "text/calendar"
+  extensions:
+    - ics
+    - ifb
+
+-
+  mimeType: "text/css"
+  extensions:
+    - css
+
+-
+  mimeType: "text/csv"
+  extensions:
+    - csv
+
+-
+  mimeType: "text/csv-schema"
+  extensions: []
+
+-
+  mimeType: "text/directory"
+  extensions: []
+
+-
+  mimeType: "text/dns"
+  extensions: []
+
+-
+  mimeType: "text/ecmascript"
+  extensions: []
+
+-
+  mimeType: "text/encaprtp"
+  extensions: []
+
+-
+  mimeType: "text/enriched"
+  extensions: []
+
+-
+  mimeType: "text/example"
+  extensions: []
+
+-
+  mimeType: "text/fwdred"
+  extensions: []
+
+-
+  mimeType: "text/grammar-ref-list"
+  extensions: []
+
+-
+  mimeType: "text/html"
+  extensions:
+    - html
+    - htm
+
+-
+  mimeType: "text/javascript"
+  extensions: []
+
+-
+  mimeType: "text/jcr-cnd"
+  extensions: []
+
+-
+  mimeType: "text/markdown"
+  extensions: []
+
+-
+  mimeType: "text/mizar"
+  extensions: []
+
+-
+  mimeType: "text/n3"
+  extensions:
+    - n3
+
+-
+  mimeType: "text/parameters"
+  extensions: []
+
+-
+  mimeType: "text/parityfec"
+  extensions: []
+
+-
+  mimeType: "text/plain"
+  extensions:
+    - txt
+    - text
+    - conf
+    - def
+    - list
+    - log
+    - in
+
+-
+  mimeType: "text/provenance-notation"
+  extensions: []
+
+-
+  mimeType: "text/prs.fallenstein.rst"
+  extensions: []
+
+-
+  mimeType: "text/prs.lines.tag"
+  extensions:
+    - dsc
+
+-
+  mimeType: "text/prs.prop.logic"
+  extensions: []
+
+-
+  mimeType: "text/raptorfec"
+  extensions: []
+
+-
+  mimeType: "text/red"
+  extensions: []
+
+-
+  mimeType: "text/rfc822-headers"
+  extensions: []
+
+-
+  mimeType: "text/richtext"
+  extensions:
+    - rtx
+
+-
+  mimeType: "text/rtf"
+  extensions: []
+
+-
+  mimeType: "text/rtp-enc-aescm128"
+  extensions: []
+
+-
+  mimeType: "text/rtploopback"
+  extensions: []
+
+-
+  mimeType: "text/rtx"
+  extensions: []
+
+-
+  mimeType: "text/sgml"
+  extensions:
+    - sgml
+    - sgm
+
+-
+  mimeType: "text/t140"
+  extensions: []
+
+-
+  mimeType: "text/tab-separated-values"
+  extensions:
+    - tsv
+
+-
+  mimeType: "text/troff"
+  extensions:
+    - t
+    - tr
+    - roff
+    - man
+    - me
+    - ms
+
+-
+  mimeType: "text/turtle"
+  extensions:
+    - ttl
+
+-
+  mimeType: "text/ulpfec"
+  extensions: []
+
+-
+  mimeType: "text/uri-list"
+  extensions:
+    - uri
+    - uris
+    - urls
+
+-
+  mimeType: "text/vcard"
+  extensions:
+    - vcard
+
+-
+  mimeType: "text/vnd.a"
+  extensions: []
+
+-
+  mimeType: "text/vnd.abc"
+  extensions: []
+
+-
+  mimeType: "text/vnd.curl"
+  extensions:
+    - curl
+
+-
+  mimeType: "text/vnd.curl.dcurl"
+  extensions:
+    - dcurl
+
+-
+  mimeType: "text/vnd.curl.mcurl"
+  extensions:
+    - mcurl
+
+-
+  mimeType: "text/vnd.curl.scurl"
+  extensions:
+    - scurl
+
+-
+  mimeType: "text/vnd.debian.copyright"
+  extensions: []
+
+-
+  mimeType: "text/vnd.dmclientscript"
+  extensions: []
+
+-
+  mimeType: "text/vnd.dvb.subtitle"
+  extensions:
+    - sub
+
+-
+  mimeType: "text/vnd.esmertec.theme-descriptor"
+  extensions: []
+
+-
+  mimeType: "text/vnd.fly"
+  extensions:
+    - fly
+
+-
+  mimeType: "text/vnd.fmi.flexstor"
+  extensions:
+    - flx
+
+-
+  mimeType: "text/vnd.graphviz"
+  extensions:
+    - gv
+
+-
+  mimeType: "text/vnd.in3d.3dml"
+  extensions:
+    - 3dml
+
+-
+  mimeType: "text/vnd.in3d.spot"
+  extensions:
+    - spot
+
+-
+  mimeType: "text/vnd.iptc.newsml"
+  extensions: []
+
+-
+  mimeType: "text/vnd.iptc.nitf"
+  extensions: []
+
+-
+  mimeType: "text/vnd.latex-z"
+  extensions: []
+
+-
+  mimeType: "text/vnd.motorola.reflex"
+  extensions: []
+
+-
+  mimeType: "text/vnd.ms-mediapackage"
+  extensions: []
+
+-
+  mimeType: "text/vnd.net2phone.commcenter.command"
+  extensions: []
+
+-
+  mimeType: "text/vnd.radisys.msml-basic-layout"
+  extensions: []
+
+-
+  mimeType: "text/vnd.si.uricatalogue"
+  extensions: []
+
+-
+  mimeType: "text/vnd.sun.j2me.app-descriptor"
+  extensions:
+    - jad
+
+-
+  mimeType: "text/vnd.trolltech.linguist"
+  extensions: []
+
+-
+  mimeType: "text/vnd.wap.si"
+  extensions: []
+
+-
+  mimeType: "text/vnd.wap.sl"
+  extensions: []
+
+-
+  mimeType: "text/vnd.wap.wml"
+  extensions:
+    - wml
+
+-
+  mimeType: "text/vnd.wap.wmlscript"
+  extensions:
+    - wmls
+
+-
+  mimeType: "text/x-asm"
+  extensions:
+    - s
+    - asm
+
+-
+  mimeType: "text/x-c"
+  extensions:
+    - c
+    - cc
+    - cxx
+    - cpp
+    - h
+    - hh
+    - dic
+
+-
+  mimeType: "text/x-fortran"
+  extensions:
+    - f
+    - for
+    - f77
+    - f90
+
+-
+  mimeType: "text/x-java-source"
+  extensions:
+    - java
+
+-
+  mimeType: "text/x-nfo"
+  extensions:
+    - nfo
+
+-
+  mimeType: "text/x-opml"
+  extensions:
+    - opml
+
+-
+  mimeType: "text/x-pascal"
+  extensions:
+    - p
+    - pas
+
+-
+  mimeType: "text/x-setext"
+  extensions:
+    - etx
+
+-
+  mimeType: "text/x-sfv"
+  extensions:
+    - sfv
+
+-
+  mimeType: "text/x-uuencode"
+  extensions:
+    - uu
+
+-
+  mimeType: "text/x-vcalendar"
+  extensions:
+    - vcs
+
+-
+  mimeType: "text/x-vcard"
+  extensions:
+    - vcf
+
+-
+  mimeType: "text/xml"
+  extensions: []
+
+-
+  mimeType: "text/xml-external-parsed-entity"
+  extensions: []
+
+-
+  mimeType: "video/1d-interleaved-parityfec"
+  extensions: []
+
+-
+  mimeType: "video/3gpp"
+  extensions:
+    - 3gp
+
+-
+  mimeType: "video/3gpp-tt"
+  extensions: []
+
+-
+  mimeType: "video/3gpp2"
+  extensions:
+    - 3g2
+
+-
+  mimeType: "video/bmpeg"
+  extensions: []
+
+-
+  mimeType: "video/bt656"
+  extensions: []
+
+-
+  mimeType: "video/celb"
+  extensions: []
+
+-
+  mimeType: "video/dv"
+  extensions: []
+
+-
+  mimeType: "video/encaprtp"
+  extensions: []
+
+-
+  mimeType: "video/example"
+  extensions: []
+
+-
+  mimeType: "video/h261"
+  extensions:
+    - h261
+
+-
+  mimeType: "video/h263"
+  extensions:
+    - h263
+
+-
+  mimeType: "video/h263-1998"
+  extensions: []
+
+-
+  mimeType: "video/h263-2000"
+  extensions: []
+
+-
+  mimeType: "video/h264"
+  extensions:
+    - h264
+
+-
+  mimeType: "video/h264-rcdo"
+  extensions: []
+
+-
+  mimeType: "video/h264-svc"
+  extensions: []
+
+-
+  mimeType: "video/h265"
+  extensions: []
+
+-
+  mimeType: "video/iso.segment"
+  extensions: []
+
+-
+  mimeType: "video/jpeg"
+  extensions:
+    - jpgv
+
+-
+  mimeType: "video/jpeg2000"
+  extensions: []
+
+-
+  mimeType: "video/jpm"
+  extensions:
+    - jpm
+    - jpgm
+
+-
+  mimeType: "video/mj2"
+  extensions:
+    - mj2
+    - mjp2
+
+-
+  mimeType: "video/mp1s"
+  extensions: []
+
+-
+  mimeType: "video/mp2p"
+  extensions: []
+
+-
+  mimeType: "video/mp2t"
+  extensions: []
+
+-
+  mimeType: "video/mp4"
+  extensions:
+    - mp4
+    - mp4v
+    - mpg4
+
+-
+  mimeType: "video/mp4v-es"
+  extensions: []
+
+-
+  mimeType: "video/mpeg"
+  extensions:
+    - mpeg
+    - mpg
+    - mpe
+    - m1v
+    - m2v
+
+-
+  mimeType: "video/mpeg4-generic"
+  extensions: []
+
+-
+  mimeType: "video/mpv"
+  extensions: []
+
+-
+  mimeType: "video/nv"
+  extensions: []
+
+-
+  mimeType: "video/ogg"
+  extensions:
+    - ogv
+
+-
+  mimeType: "video/parityfec"
+  extensions: []
+
+-
+  mimeType: "video/pointer"
+  extensions: []
+
+-
+  mimeType: "video/quicktime"
+  extensions:
+    - qt
+    - mov
+
+-
+  mimeType: "video/raptorfec"
+  extensions: []
+
+-
+  mimeType: "video/raw"
+  extensions: []
+
+-
+  mimeType: "video/rtp-enc-aescm128"
+  extensions: []
+
+-
+  mimeType: "video/rtploopback"
+  extensions: []
+
+-
+  mimeType: "video/rtx"
+  extensions: []
+
+-
+  mimeType: "video/smpte292m"
+  extensions: []
+
+-
+  mimeType: "video/ulpfec"
+  extensions: []
+
+-
+  mimeType: "video/vc1"
+  extensions: []
+
+-
+  mimeType: "video/vnd.cctv"
+  extensions: []
+
+-
+  mimeType: "video/vnd.dece.hd"
+  extensions:
+    - uvh
+    - uvvh
+
+-
+  mimeType: "video/vnd.dece.mobile"
+  extensions:
+    - uvm
+    - uvvm
+
+-
+  mimeType: "video/vnd.dece.mp4"
+  extensions: []
+
+-
+  mimeType: "video/vnd.dece.pd"
+  extensions:
+    - uvp
+    - uvvp
+
+-
+  mimeType: "video/vnd.dece.sd"
+  extensions:
+    - uvs
+    - uvvs
+
+-
+  mimeType: "video/vnd.dece.video"
+  extensions:
+    - uvv
+    - uvvv
+
+-
+  mimeType: "video/vnd.directv.mpeg"
+  extensions: []
+
+-
+  mimeType: "video/vnd.directv.mpeg-tts"
+  extensions: []
+
+-
+  mimeType: "video/vnd.dlna.mpeg-tts"
+  extensions: []
+
+-
+  mimeType: "video/vnd.dvb.file"
+  extensions:
+    - dvb
+
+-
+  mimeType: "video/vnd.fvt"
+  extensions:
+    - fvt
+
+-
+  mimeType: "video/vnd.hns.video"
+  extensions: []
+
+-
+  mimeType: "video/vnd.iptvforum.1dparityfec-1010"
+  extensions: []
+
+-
+  mimeType: "video/vnd.iptvforum.1dparityfec-2005"
+  extensions: []
+
+-
+  mimeType: "video/vnd.iptvforum.2dparityfec-1010"
+  extensions: []
+
+-
+  mimeType: "video/vnd.iptvforum.2dparityfec-2005"
+  extensions: []
+
+-
+  mimeType: "video/vnd.iptvforum.ttsavc"
+  extensions: []
+
+-
+  mimeType: "video/vnd.iptvforum.ttsmpeg2"
+  extensions: []
+
+-
+  mimeType: "video/vnd.motorola.video"
+  extensions: []
+
+-
+  mimeType: "video/vnd.motorola.videop"
+  extensions: []
+
+-
+  mimeType: "video/vnd.mpegurl"
+  extensions:
+    - mxu
+    - m4u
+
+-
+  mimeType: "video/vnd.ms-playready.media.pyv"
+  extensions:
+    - pyv
+
+-
+  mimeType: "video/vnd.nokia.interleaved-multimedia"
+  extensions: []
+
+-
+  mimeType: "video/vnd.nokia.videovoip"
+  extensions: []
+
+-
+  mimeType: "video/vnd.objectvideo"
+  extensions: []
+
+-
+  mimeType: "video/vnd.radgamettools.bink"
+  extensions: []
+
+-
+  mimeType: "video/vnd.radgamettools.smacker"
+  extensions: []
+
+-
+  mimeType: "video/vnd.sealed.mpeg1"
+  extensions: []
+
+-
+  mimeType: "video/vnd.sealed.mpeg4"
+  extensions: []
+
+-
+  mimeType: "video/vnd.sealed.swf"
+  extensions: []
+
+-
+  mimeType: "video/vnd.sealedmedia.softseal.mov"
+  extensions: []
+
+-
+  mimeType: "video/vnd.uvvu.mp4"
+  extensions:
+    - uvu
+    - uvvu
+
+-
+  mimeType: "video/vnd.vivo"
+  extensions:
+    - viv
+
+-
+  mimeType: "video/vp8"
+  extensions: []
+
+-
+  mimeType: "video/webm"
+  extensions:
+    - webm
+
+-
+  mimeType: "video/x-f4v"
+  extensions:
+    - f4v
+
+-
+  mimeType: "video/x-fli"
+  extensions:
+    - fli
+
+-
+  mimeType: "video/x-flv"
+  extensions:
+    - flv
+
+-
+  mimeType: "video/x-m4v"
+  extensions:
+    - m4v
+
+-
+  mimeType: "video/x-matroska"
+  extensions:
+    - mkv
+    - mk3d
+    - mks
+
+-
+  mimeType: "video/x-mng"
+  extensions:
+    - mng
+
+-
+  mimeType: "video/x-ms-asf"
+  extensions:
+    - asf
+    - asx
+
+-
+  mimeType: "video/x-ms-vob"
+  extensions:
+    - vob
+
+-
+  mimeType: "video/x-ms-wm"
+  extensions:
+    - wm
+
+-
+  mimeType: "video/x-ms-wmv"
+  extensions:
+    - wmv
+
+-
+  mimeType: "video/x-ms-wmx"
+  extensions:
+    - wmx
+
+-
+  mimeType: "video/x-ms-wvx"
+  extensions:
+    - wvx
+
+-
+  mimeType: "video/x-msvideo"
+  extensions:
+    - avi
+
+-
+  mimeType: "video/x-sgi-movie"
+  extensions:
+    - movie
+
+-
+  mimeType: "video/x-smv"
+  extensions:
+    - smv
+
+-
+  mimeType: "x-conference/x-cooltalk"
+  extensions:
+    - ice
+
+# EOF
+
+...
