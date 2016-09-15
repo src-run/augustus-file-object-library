@@ -21,9 +21,9 @@ class PathInfoAccessors extends AbstractAccessors
     /**
      * Returns an object full path name.
      *
-     * @param bool $resolve Tries to resolve the real path if true.
+     * @param bool $resolve Tries to resolve the real path if true
      *
-     * @throws NotFoundException If real path resolution fails.
+     * @throws NotFoundException If real path resolution fails
      *
      * @return string
      */
@@ -35,9 +35,9 @@ class PathInfoAccessors extends AbstractAccessors
     /**
      * Returns an object file name.
      *
-     * @param bool $resolve Tries to resolve the real path if true.
+     * @param bool $resolve Tries to resolve the real path if true
      *
-     * @throws NotFoundException If real path resolution fails.
+     * @throws NotFoundException If real path resolution fails
      *
      * @return string
      */
@@ -49,10 +49,10 @@ class PathInfoAccessors extends AbstractAccessors
     /**
      * Returns an object base name.
      *
-     * @param null|string $suffix  A suffix to remove from the base name.
-     * @param bool        $resolve Tries to resolve the real path if true.
+     * @param null|string $suffix  A suffix to remove from the base name
+     * @param bool        $resolve Tries to resolve the real path if true
      *
-     * @throws NotFoundException If real path resolution fails.
+     * @throws NotFoundException If real path resolution fails
      *
      * @return mixed
      */
@@ -68,9 +68,9 @@ class PathInfoAccessors extends AbstractAccessors
     /**
      * Returns an object path.
      *
-     * @param bool $resolve Tries to resolve the real path if true.
+     * @param bool $resolve Tries to resolve the real path if true
      *
-     * @throws NotFoundException If real path resolution fails.
+     * @throws NotFoundException If real path resolution fails
      *
      * @return string
      */
@@ -82,9 +82,9 @@ class PathInfoAccessors extends AbstractAccessors
     /**
      * Returns the object's full path name.
      *
-     * @param bool $resolve Tries to resolve the real path if true.
+     * @param bool $resolve Tries to resolve the real path if true
      *
-     * @throws NotFoundException If real path resolution fails.
+     * @throws NotFoundException If real path resolution fails
      *
      * @return string
      */
@@ -96,9 +96,9 @@ class PathInfoAccessors extends AbstractAccessors
     /**
      * Returns an object full path name.
      *
-     * @param bool $resolve Tries to resolve the real path if true.
+     * @param bool $resolve Tries to resolve the real path if true
      *
-     * @throws NotFoundException If real path resolution fails.
+     * @throws NotFoundException If real path resolution fails
      *
      * @return string
      */
@@ -108,7 +108,7 @@ class PathInfoAccessors extends AbstractAccessors
     }
 
     /**
-     * @throws NotFoundException If real path resolution fails.
+     * @throws NotFoundException If real path resolution fails
      *
      * @return string
      */
