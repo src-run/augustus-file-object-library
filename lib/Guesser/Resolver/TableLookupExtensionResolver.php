@@ -59,6 +59,8 @@ class TableLookupExtensionResolver implements ExtensionResolverInterface
         $compiler = new YmlCompiler($this->file, new \DateInterval('PT2S'));
         $compiler->compile();
 
+        /* @todo: write implementation */
+
 //        var_dump($compiler->get());
     }
 }
