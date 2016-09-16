@@ -15,6 +15,7 @@ use SR\File\Object\Exception\NotAccessibleException;
 use SR\File\Object\Exception\NotFoundException;
 use SR\File\Object\Exception\NotReadableException;
 use SR\File\Object\Exception\NotWritableException;
+use SR\Silencer\CallSilencer;
 
 /**
  * Class representing a file system object provider.
@@ -258,13 +259,13 @@ class FileSystemStorageObjectProvider extends AbstractStorageObjectProvider
             throw new NotAccessibleException('File is not accessible "%s"', $this->getPathName());
         }
 
-        $previousErrorLevel = error_reporting(0);
-        $result = file_put_contents($this->getPathName(), $contents);
-        error_reporting($previousErrorLevel);
+        $silencer = new CallSilencer();
+        $silencer->setClosure(function () use ($contents) {
+            return file_put_contents($this->getPathName(), $contents);
+        })->invoke();
 
-        if (false === $result) {
-            $error = error_get_last();
-            throw new NotWritableException('Could not write file contents "%s"', $error['message']);
+        if ($silencer->isResultFalse() || $silencer->hasError()) {
+            throw new NotWritableException('Could not write file contents "%s"', $silencer->getError(CallSilencer::ERROR_MESSAGE));
         }
 
         return $contents;

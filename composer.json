@@ -24,6 +24,7 @@
     "src-run/augustus-compiler-library": "~0.7",
     "src-run/augustus-exception-library": "~0.6",
     "src-run/augustus-file-lock-library": "~0.7",
+    "src-run/augustus-silencer-library": "~0.7",
     "symfony/process": "~2.8 || ~3.0",
     "symfony/yaml": "~2.8 || ~3.0"
   },
