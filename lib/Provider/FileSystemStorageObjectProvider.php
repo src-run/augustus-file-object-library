@@ -226,16 +226,16 @@ class FileSystemStorageObjectProvider extends AbstractStorageObjectProvider
             throw new NotAccessibleException('File is not accessible "%s"', $this->getPathName());
         }
 
-        $previousErrorLevel = error_reporting(0);
-        $contents = file_get_contents($this->getPathName());
-        error_reporting($previousErrorLevel);
+        $silencer = new CallSilencer();
+        $silencer->setClosure(function () {
+            return file_get_contents($this->getPathName());
+        })->invoke();
 
-        if (false === $contents) {
-            $error = error_get_last();
-            throw new NotReadableException('Could not read file contents "%s"', $error['message']);
+        if ($silencer->isResultFalse() || $silencer->hasError()) {
+            throw new NotWritableException('Could not write file contents "%s"', $silencer->getError(CallSilencer::ERROR_MESSAGE));
         }
 
-        return $contents;
+        return $silencer->getResult();
     }
 
     /**
